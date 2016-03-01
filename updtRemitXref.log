@@ -1,0 +1,12534 @@
+
+***************************************************
+****************                   ****************
+**********                               **********
+*****                                         *****
+  JOB: updtRemitXref.csh started   05/20/10 13:53:14
+*****                                         *****
+**********                               **********
+****************                   ****************
+***************************************************
+
+
+running in the dsor unit test environment
+
+
+################################################################################
+JOBSTEP: js010 started 05/20/10 13:53:15
+################################################################################
+
+Executing: sqlplus...
+
+SQL*Plus: Release 10.2.0.3.0 - Production on Thu May 20 13:53:15 2010
+
+Copyright (c) 1982, 2006, Oracle.  All Rights Reserved.
+
+SQL> Connected.
+SQL> SQL> SQL> SQL> SQL> SQL>   2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17   18   19   20   21   22   23   24   25   26   27   28   29   30   31   32   33   34   35   36   37   38   39   40   41   42   43   44   45   46   47   48   49   50   51   52   53   54   55   56   57   58   59   60   61   62   63   64   65   66   67   68   69   70   71   72   73   74   75  SQL> Que rollo
+Adentro: 500
+500 rows committed
+> >
+500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1500 rows selected
+Adentro: 500
+500 rows committed
+> >
+2000 rows selected
+Adentro: 500
+500 rows committed
+> >
+2500 rows selected
+Adentro: 500
+500 rows committed
+> >
+3000 rows selected
+Adentro: 500
+500 rows committed
+> >
+3500 rows selected
+Adentro: 500
+500 rows committed
+> >
+4000 rows selected
+Adentro: 500
+500 rows committed
+> >
+4500 rows selected
+Adentro: 500
+500 rows committed
+> >
+5000 rows selected
+Adentro: 500
+500 rows committed
+> >
+5500 rows selected
+Adentro: 500
+500 rows committed
+> >
+6000 rows selected
+Adentro: 500
+500 rows committed
+> >
+6500 rows selected
+Adentro: 500
+500 rows committed
+> >
+7000 rows selected
+Adentro: 500
+500 rows committed
+> >
+7500 rows selected
+Adentro: 500
+500 rows committed
+> >
+8000 rows selected
+Adentro: 500
+500 rows committed
+> >
+8500 rows selected
+Adentro: 500
+500 rows committed
+> >
+9000 rows selected
+Adentro: 500
+500 rows committed
+> >
+9500 rows selected
+Adentro: 500
+500 rows committed
+> >
+10000 rows selected
+Adentro: 500
+500 rows committed
+> >
+10500 rows selected
+Adentro: 500
+500 rows committed
+> >
+11000 rows selected
+Adentro: 500
+500 rows committed
+> >
+11500 rows selected
+Adentro: 500
+500 rows committed
+> >
+12000 rows selected
+Adentro: 500
+500 rows committed
+> >
+12500 rows selected
+Adentro: 500
+500 rows committed
+> >
+13000 rows selected
+Adentro: 500
+500 rows committed
+> >
+13500 rows selected
+Adentro: 500
+500 rows committed
+> >
+14000 rows selected
+Adentro: 500
+500 rows committed
+> >
+14500 rows selected
+Adentro: 500
+500 rows committed
+> >
+15000 rows selected
+Adentro: 500
+500 rows committed
+> >
+15500 rows selected
+Adentro: 500
+500 rows committed
+> >
+16000 rows selected
+Adentro: 500
+500 rows committed
+> >
+16500 rows selected
+Adentro: 500
+500 rows committed
+> >
+17000 rows selected
+Adentro: 500
+500 rows committed
+> >
+17500 rows selected
+Adentro: 500
+500 rows committed
+> >
+18000 rows selected
+Adentro: 500
+500 rows committed
+> >
+18500 rows selected
+Adentro: 500
+500 rows committed
+> >
+19000 rows selected
+Adentro: 500
+500 rows committed
+> >
+19500 rows selected
+Adentro: 500
+500 rows committed
+> >
+20000 rows selected
+Adentro: 500
+500 rows committed
+> >
+20500 rows selected
+Adentro: 500
+500 rows committed
+> >
+21000 rows selected
+Adentro: 500
+500 rows committed
+> >
+21500 rows selected
+Adentro: 500
+500 rows committed
+> >
+22000 rows selected
+Adentro: 500
+500 rows committed
+> >
+22500 rows selected
+Adentro: 500
+500 rows committed
+> >
+23000 rows selected
+Adentro: 500
+500 rows committed
+> >
+23500 rows selected
+Adentro: 500
+500 rows committed
+> >
+24000 rows selected
+Adentro: 500
+500 rows committed
+> >
+24500 rows selected
+Adentro: 500
+500 rows committed
+> >
+25000 rows selected
+Adentro: 500
+500 rows committed
+> >
+25500 rows selected
+Adentro: 500
+500 rows committed
+> >
+26000 rows selected
+Adentro: 500
+500 rows committed
+> >
+26500 rows selected
+Adentro: 500
+500 rows committed
+> >
+27000 rows selected
+Adentro: 500
+500 rows committed
+> >
+27500 rows selected
+Adentro: 500
+500 rows committed
+> >
+28000 rows selected
+Adentro: 500
+500 rows committed
+> >
+28500 rows selected
+Adentro: 500
+500 rows committed
+> >
+29000 rows selected
+Adentro: 500
+500 rows committed
+> >
+29500 rows selected
+Adentro: 500
+500 rows committed
+> >
+30000 rows selected
+Adentro: 500
+500 rows committed
+> >
+30500 rows selected
+Adentro: 500
+500 rows committed
+> >
+31000 rows selected
+Adentro: 500
+500 rows committed
+> >
+31500 rows selected
+Adentro: 500
+500 rows committed
+> >
+32000 rows selected
+Adentro: 500
+500 rows committed
+> >
+32500 rows selected
+Adentro: 500
+500 rows committed
+> >
+33000 rows selected
+Adentro: 500
+500 rows committed
+> >
+33500 rows selected
+Adentro: 500
+500 rows committed
+> >
+34000 rows selected
+Adentro: 500
+500 rows committed
+> >
+34500 rows selected
+Adentro: 500
+500 rows committed
+> >
+35000 rows selected
+Adentro: 500
+500 rows committed
+> >
+35500 rows selected
+Adentro: 500
+500 rows committed
+> >
+36000 rows selected
+Adentro: 500
+500 rows committed
+> >
+36500 rows selected
+Adentro: 500
+500 rows committed
+> >
+37000 rows selected
+Adentro: 500
+500 rows committed
+> >
+37500 rows selected
+Adentro: 500
+500 rows committed
+> >
+38000 rows selected
+Adentro: 500
+500 rows committed
+> >
+38500 rows selected
+Adentro: 500
+500 rows committed
+> >
+39000 rows selected
+Adentro: 500
+500 rows committed
+> >
+39500 rows selected
+Adentro: 500
+500 rows committed
+> >
+40000 rows selected
+Adentro: 500
+500 rows committed
+> >
+40500 rows selected
+Adentro: 500
+500 rows committed
+> >
+41000 rows selected
+Adentro: 500
+500 rows committed
+> >
+41500 rows selected
+Adentro: 500
+500 rows committed
+> >
+42000 rows selected
+Adentro: 500
+500 rows committed
+> >
+42500 rows selected
+Adentro: 500
+500 rows committed
+> >
+43000 rows selected
+Adentro: 500
+500 rows committed
+> >
+43500 rows selected
+Adentro: 500
+500 rows committed
+> >
+44000 rows selected
+Adentro: 500
+500 rows committed
+> >
+44500 rows selected
+Adentro: 500
+500 rows committed
+> >
+45000 rows selected
+Adentro: 500
+500 rows committed
+> >
+45500 rows selected
+Adentro: 500
+500 rows committed
+> >
+46000 rows selected
+Adentro: 500
+500 rows committed
+> >
+46500 rows selected
+Adentro: 500
+500 rows committed
+> >
+47000 rows selected
+Adentro: 500
+500 rows committed
+> >
+47500 rows selected
+Adentro: 500
+500 rows committed
+> >
+48000 rows selected
+Adentro: 500
+500 rows committed
+> >
+48500 rows selected
+Adentro: 500
+500 rows committed
+> >
+49000 rows selected
+Adentro: 500
+500 rows committed
+> >
+49500 rows selected
+Adentro: 500
+500 rows committed
+> >
+50000 rows selected
+Adentro: 500
+500 rows committed
+> >
+50500 rows selected
+Adentro: 500
+500 rows committed
+> >
+51000 rows selected
+Adentro: 500
+500 rows committed
+> >
+51500 rows selected
+Adentro: 500
+500 rows committed
+> >
+52000 rows selected
+Adentro: 500
+500 rows committed
+> >
+52500 rows selected
+Adentro: 500
+500 rows committed
+> >
+53000 rows selected
+Adentro: 500
+500 rows committed
+> >
+53500 rows selected
+Adentro: 500
+500 rows committed
+> >
+54000 rows selected
+Adentro: 500
+500 rows committed
+> >
+54500 rows selected
+Adentro: 500
+500 rows committed
+> >
+55000 rows selected
+Adentro: 500
+500 rows committed
+> >
+55500 rows selected
+Adentro: 500
+500 rows committed
+> >
+56000 rows selected
+Adentro: 500
+500 rows committed
+> >
+56500 rows selected
+Adentro: 500
+500 rows committed
+> >
+57000 rows selected
+Adentro: 500
+500 rows committed
+> >
+57500 rows selected
+Adentro: 500
+500 rows committed
+> >
+58000 rows selected
+Adentro: 500
+500 rows committed
+> >
+58500 rows selected
+Adentro: 500
+500 rows committed
+> >
+59000 rows selected
+Adentro: 500
+500 rows committed
+> >
+59500 rows selected
+Adentro: 500
+500 rows committed
+> >
+60000 rows selected
+Adentro: 500
+500 rows committed
+> >
+60500 rows selected
+Adentro: 500
+500 rows committed
+> >
+61000 rows selected
+Adentro: 500
+500 rows committed
+> >
+61500 rows selected
+Adentro: 500
+500 rows committed
+> >
+62000 rows selected
+Adentro: 500
+500 rows committed
+> >
+62500 rows selected
+Adentro: 500
+500 rows committed
+> >
+63000 rows selected
+Adentro: 500
+500 rows committed
+> >
+63500 rows selected
+Adentro: 500
+500 rows committed
+> >
+64000 rows selected
+Adentro: 500
+500 rows committed
+> >
+64500 rows selected
+Adentro: 500
+500 rows committed
+> >
+65000 rows selected
+Adentro: 500
+500 rows committed
+> >
+65500 rows selected
+Adentro: 500
+500 rows committed
+> >
+66000 rows selected
+Adentro: 500
+500 rows committed
+> >
+66500 rows selected
+Adentro: 500
+500 rows committed
+> >
+67000 rows selected
+Adentro: 500
+500 rows committed
+> >
+67500 rows selected
+Adentro: 500
+500 rows committed
+> >
+68000 rows selected
+Adentro: 500
+500 rows committed
+> >
+68500 rows selected
+Adentro: 500
+500 rows committed
+> >
+69000 rows selected
+Adentro: 500
+500 rows committed
+> >
+69500 rows selected
+Adentro: 500
+500 rows committed
+> >
+70000 rows selected
+Adentro: 500
+500 rows committed
+> >
+70500 rows selected
+Adentro: 500
+500 rows committed
+> >
+71000 rows selected
+Adentro: 500
+500 rows committed
+> >
+71500 rows selected
+Adentro: 500
+500 rows committed
+> >
+72000 rows selected
+Adentro: 500
+500 rows committed
+> >
+72500 rows selected
+Adentro: 500
+500 rows committed
+> >
+73000 rows selected
+Adentro: 500
+500 rows committed
+> >
+73500 rows selected
+Adentro: 500
+500 rows committed
+> >
+74000 rows selected
+Adentro: 500
+500 rows committed
+> >
+74500 rows selected
+Adentro: 500
+500 rows committed
+> >
+75000 rows selected
+Adentro: 500
+500 rows committed
+> >
+75500 rows selected
+Adentro: 500
+500 rows committed
+> >
+76000 rows selected
+Adentro: 500
+500 rows committed
+> >
+76500 rows selected
+Adentro: 500
+500 rows committed
+> >
+77000 rows selected
+Adentro: 500
+500 rows committed
+> >
+77500 rows selected
+Adentro: 500
+500 rows committed
+> >
+78000 rows selected
+Adentro: 500
+500 rows committed
+> >
+78500 rows selected
+Adentro: 500
+500 rows committed
+> >
+79000 rows selected
+Adentro: 500
+500 rows committed
+> >
+79500 rows selected
+Adentro: 500
+500 rows committed
+> >
+80000 rows selected
+Adentro: 500
+500 rows committed
+> >
+80500 rows selected
+Adentro: 500
+500 rows committed
+> >
+81000 rows selected
+Adentro: 500
+500 rows committed
+> >
+81500 rows selected
+Adentro: 500
+500 rows committed
+> >
+82000 rows selected
+Adentro: 500
+500 rows committed
+> >
+82500 rows selected
+Adentro: 500
+500 rows committed
+> >
+83000 rows selected
+Adentro: 500
+500 rows committed
+> >
+83500 rows selected
+Adentro: 500
+500 rows committed
+> >
+84000 rows selected
+Adentro: 500
+500 rows committed
+> >
+84500 rows selected
+Adentro: 500
+500 rows committed
+> >
+85000 rows selected
+Adentro: 500
+500 rows committed
+> >
+85500 rows selected
+Adentro: 500
+500 rows committed
+> >
+86000 rows selected
+Adentro: 500
+500 rows committed
+> >
+86500 rows selected
+Adentro: 500
+500 rows committed
+> >
+87000 rows selected
+Adentro: 500
+500 rows committed
+> >
+87500 rows selected
+Adentro: 500
+500 rows committed
+> >
+88000 rows selected
+Adentro: 500
+500 rows committed
+> >
+88500 rows selected
+Adentro: 500
+500 rows committed
+> >
+89000 rows selected
+Adentro: 500
+500 rows committed
+> >
+89500 rows selected
+Adentro: 500
+500 rows committed
+> >
+90000 rows selected
+Adentro: 500
+500 rows committed
+> >
+90500 rows selected
+Adentro: 500
+500 rows committed
+> >
+91000 rows selected
+Adentro: 500
+500 rows committed
+> >
+91500 rows selected
+Adentro: 500
+500 rows committed
+> >
+92000 rows selected
+Adentro: 500
+500 rows committed
+> >
+92500 rows selected
+Adentro: 500
+500 rows committed
+> >
+93000 rows selected
+Adentro: 500
+500 rows committed
+> >
+93500 rows selected
+Adentro: 500
+500 rows committed
+> >
+94000 rows selected
+Adentro: 500
+500 rows committed
+> >
+94500 rows selected
+Adentro: 500
+500 rows committed
+> >
+95000 rows selected
+Adentro: 500
+500 rows committed
+> >
+95500 rows selected
+Adentro: 500
+500 rows committed
+> >
+96000 rows selected
+Adentro: 500
+500 rows committed
+> >
+96500 rows selected
+Adentro: 500
+500 rows committed
+> >
+97000 rows selected
+Adentro: 500
+500 rows committed
+> >
+97500 rows selected
+Adentro: 500
+500 rows committed
+> >
+98000 rows selected
+Adentro: 500
+500 rows committed
+> >
+98500 rows selected
+Adentro: 500
+500 rows committed
+> >
+99000 rows selected
+Adentro: 500
+500 rows committed
+> >
+99500 rows selected
+Adentro: 500
+500 rows committed
+> >
+100000 rows selected
+Adentro: 500
+500 rows committed
+> >
+100500 rows selected
+Adentro: 500
+500 rows committed
+> >
+101000 rows selected
+Adentro: 500
+500 rows committed
+> >
+101500 rows selected
+Adentro: 500
+500 rows committed
+> >
+102000 rows selected
+Adentro: 500
+500 rows committed
+> >
+102500 rows selected
+Adentro: 500
+500 rows committed
+> >
+103000 rows selected
+Adentro: 500
+500 rows committed
+> >
+103500 rows selected
+Adentro: 500
+500 rows committed
+> >
+104000 rows selected
+Adentro: 500
+500 rows committed
+> >
+104500 rows selected
+Adentro: 500
+500 rows committed
+> >
+105000 rows selected
+Adentro: 500
+500 rows committed
+> >
+105500 rows selected
+Adentro: 500
+500 rows committed
+> >
+106000 rows selected
+Adentro: 500
+500 rows committed
+> >
+106500 rows selected
+Adentro: 500
+500 rows committed
+> >
+107000 rows selected
+Adentro: 500
+500 rows committed
+> >
+107500 rows selected
+Adentro: 500
+500 rows committed
+> >
+108000 rows selected
+Adentro: 500
+500 rows committed
+> >
+108500 rows selected
+Adentro: 500
+500 rows committed
+> >
+109000 rows selected
+Adentro: 500
+500 rows committed
+> >
+109500 rows selected
+Adentro: 500
+500 rows committed
+> >
+110000 rows selected
+Adentro: 500
+500 rows committed
+> >
+110500 rows selected
+Adentro: 500
+500 rows committed
+> >
+111000 rows selected
+Adentro: 500
+500 rows committed
+> >
+111500 rows selected
+Adentro: 500
+500 rows committed
+> >
+112000 rows selected
+Adentro: 500
+500 rows committed
+> >
+112500 rows selected
+Adentro: 500
+500 rows committed
+> >
+113000 rows selected
+Adentro: 500
+500 rows committed
+> >
+113500 rows selected
+Adentro: 500
+500 rows committed
+> >
+114000 rows selected
+Adentro: 500
+500 rows committed
+> >
+114500 rows selected
+Adentro: 500
+500 rows committed
+> >
+115000 rows selected
+Adentro: 500
+500 rows committed
+> >
+115500 rows selected
+Adentro: 500
+500 rows committed
+> >
+116000 rows selected
+Adentro: 500
+500 rows committed
+> >
+116500 rows selected
+Adentro: 500
+500 rows committed
+> >
+117000 rows selected
+Adentro: 500
+500 rows committed
+> >
+117500 rows selected
+Adentro: 500
+500 rows committed
+> >
+118000 rows selected
+Adentro: 500
+500 rows committed
+> >
+118500 rows selected
+Adentro: 500
+500 rows committed
+> >
+119000 rows selected
+Adentro: 500
+500 rows committed
+> >
+119500 rows selected
+Adentro: 500
+500 rows committed
+> >
+120000 rows selected
+Adentro: 500
+500 rows committed
+> >
+120500 rows selected
+Adentro: 500
+500 rows committed
+> >
+121000 rows selected
+Adentro: 500
+500 rows committed
+> >
+121500 rows selected
+Adentro: 500
+500 rows committed
+> >
+122000 rows selected
+Adentro: 500
+500 rows committed
+> >
+122500 rows selected
+Adentro: 500
+500 rows committed
+> >
+123000 rows selected
+Adentro: 500
+500 rows committed
+> >
+123500 rows selected
+Adentro: 500
+500 rows committed
+> >
+124000 rows selected
+Adentro: 500
+500 rows committed
+> >
+124500 rows selected
+Adentro: 500
+500 rows committed
+> >
+125000 rows selected
+Adentro: 500
+500 rows committed
+> >
+125500 rows selected
+Adentro: 500
+500 rows committed
+> >
+126000 rows selected
+Adentro: 500
+500 rows committed
+> >
+126500 rows selected
+Adentro: 500
+500 rows committed
+> >
+127000 rows selected
+Adentro: 500
+500 rows committed
+> >
+127500 rows selected
+Adentro: 500
+500 rows committed
+> >
+128000 rows selected
+Adentro: 500
+500 rows committed
+> >
+128500 rows selected
+Adentro: 500
+500 rows committed
+> >
+129000 rows selected
+Adentro: 500
+500 rows committed
+> >
+129500 rows selected
+Adentro: 500
+500 rows committed
+> >
+130000 rows selected
+Adentro: 500
+500 rows committed
+> >
+130500 rows selected
+Adentro: 500
+500 rows committed
+> >
+131000 rows selected
+Adentro: 500
+500 rows committed
+> >
+131500 rows selected
+Adentro: 500
+500 rows committed
+> >
+132000 rows selected
+Adentro: 500
+500 rows committed
+> >
+132500 rows selected
+Adentro: 500
+500 rows committed
+> >
+133000 rows selected
+Adentro: 500
+500 rows committed
+> >
+133500 rows selected
+Adentro: 500
+500 rows committed
+> >
+134000 rows selected
+Adentro: 500
+500 rows committed
+> >
+134500 rows selected
+Adentro: 500
+500 rows committed
+> >
+135000 rows selected
+Adentro: 500
+500 rows committed
+> >
+135500 rows selected
+Adentro: 500
+500 rows committed
+> >
+136000 rows selected
+Adentro: 500
+500 rows committed
+> >
+136500 rows selected
+Adentro: 500
+500 rows committed
+> >
+137000 rows selected
+Adentro: 500
+500 rows committed
+> >
+137500 rows selected
+Adentro: 500
+500 rows committed
+> >
+138000 rows selected
+Adentro: 500
+500 rows committed
+> >
+138500 rows selected
+Adentro: 500
+500 rows committed
+> >
+139000 rows selected
+Adentro: 500
+500 rows committed
+> >
+139500 rows selected
+Adentro: 500
+500 rows committed
+> >
+140000 rows selected
+Adentro: 500
+500 rows committed
+> >
+140500 rows selected
+Adentro: 500
+500 rows committed
+> >
+141000 rows selected
+Adentro: 500
+500 rows committed
+> >
+141500 rows selected
+Adentro: 500
+500 rows committed
+> >
+142000 rows selected
+Adentro: 500
+500 rows committed
+> >
+142500 rows selected
+Adentro: 500
+500 rows committed
+> >
+143000 rows selected
+Adentro: 500
+500 rows committed
+> >
+143500 rows selected
+Adentro: 500
+500 rows committed
+> >
+144000 rows selected
+Adentro: 500
+500 rows committed
+> >
+144500 rows selected
+Adentro: 500
+500 rows committed
+> >
+145000 rows selected
+Adentro: 500
+500 rows committed
+> >
+145500 rows selected
+Adentro: 500
+500 rows committed
+> >
+146000 rows selected
+Adentro: 500
+500 rows committed
+> >
+146500 rows selected
+Adentro: 500
+500 rows committed
+> >
+147000 rows selected
+Adentro: 500
+500 rows committed
+> >
+147500 rows selected
+Adentro: 500
+500 rows committed
+> >
+148000 rows selected
+Adentro: 500
+500 rows committed
+> >
+148500 rows selected
+Adentro: 500
+500 rows committed
+> >
+149000 rows selected
+Adentro: 500
+500 rows committed
+> >
+149500 rows selected
+Adentro: 500
+500 rows committed
+> >
+150000 rows selected
+Adentro: 500
+500 rows committed
+> >
+150500 rows selected
+Adentro: 500
+500 rows committed
+> >
+151000 rows selected
+Adentro: 500
+500 rows committed
+> >
+151500 rows selected
+Adentro: 500
+500 rows committed
+> >
+152000 rows selected
+Adentro: 500
+500 rows committed
+> >
+152500 rows selected
+Adentro: 500
+500 rows committed
+> >
+153000 rows selected
+Adentro: 500
+500 rows committed
+> >
+153500 rows selected
+Adentro: 500
+500 rows committed
+> >
+154000 rows selected
+Adentro: 500
+500 rows committed
+> >
+154500 rows selected
+Adentro: 500
+500 rows committed
+> >
+155000 rows selected
+Adentro: 500
+500 rows committed
+> >
+155500 rows selected
+Adentro: 500
+500 rows committed
+> >
+156000 rows selected
+Adentro: 500
+500 rows committed
+> >
+156500 rows selected
+Adentro: 500
+500 rows committed
+> >
+157000 rows selected
+Adentro: 500
+500 rows committed
+> >
+157500 rows selected
+Adentro: 500
+500 rows committed
+> >
+158000 rows selected
+Adentro: 500
+500 rows committed
+> >
+158500 rows selected
+Adentro: 500
+500 rows committed
+> >
+159000 rows selected
+Adentro: 500
+500 rows committed
+> >
+159500 rows selected
+Adentro: 500
+500 rows committed
+> >
+160000 rows selected
+Adentro: 500
+500 rows committed
+> >
+160500 rows selected
+Adentro: 500
+500 rows committed
+> >
+161000 rows selected
+Adentro: 500
+500 rows committed
+> >
+161500 rows selected
+Adentro: 500
+500 rows committed
+> >
+162000 rows selected
+Adentro: 500
+500 rows committed
+> >
+162500 rows selected
+Adentro: 500
+500 rows committed
+> >
+163000 rows selected
+Adentro: 500
+500 rows committed
+> >
+163500 rows selected
+Adentro: 500
+500 rows committed
+> >
+164000 rows selected
+Adentro: 500
+500 rows committed
+> >
+164500 rows selected
+Adentro: 500
+500 rows committed
+> >
+165000 rows selected
+Adentro: 500
+500 rows committed
+> >
+165500 rows selected
+Adentro: 500
+500 rows committed
+> >
+166000 rows selected
+Adentro: 500
+500 rows committed
+> >
+166500 rows selected
+Adentro: 500
+500 rows committed
+> >
+167000 rows selected
+Adentro: 500
+500 rows committed
+> >
+167500 rows selected
+Adentro: 500
+500 rows committed
+> >
+168000 rows selected
+Adentro: 500
+500 rows committed
+> >
+168500 rows selected
+Adentro: 500
+500 rows committed
+> >
+169000 rows selected
+Adentro: 500
+500 rows committed
+> >
+169500 rows selected
+Adentro: 500
+500 rows committed
+> >
+170000 rows selected
+Adentro: 500
+500 rows committed
+> >
+170500 rows selected
+Adentro: 500
+500 rows committed
+> >
+171000 rows selected
+Adentro: 500
+500 rows committed
+> >
+171500 rows selected
+Adentro: 500
+500 rows committed
+> >
+172000 rows selected
+Adentro: 500
+500 rows committed
+> >
+172500 rows selected
+Adentro: 500
+500 rows committed
+> >
+173000 rows selected
+Adentro: 500
+500 rows committed
+> >
+173500 rows selected
+Adentro: 500
+500 rows committed
+> >
+174000 rows selected
+Adentro: 500
+500 rows committed
+> >
+174500 rows selected
+Adentro: 500
+500 rows committed
+> >
+175000 rows selected
+Adentro: 500
+500 rows committed
+> >
+175500 rows selected
+Adentro: 500
+500 rows committed
+> >
+176000 rows selected
+Adentro: 500
+500 rows committed
+> >
+176500 rows selected
+Adentro: 500
+500 rows committed
+> >
+177000 rows selected
+Adentro: 500
+500 rows committed
+> >
+177500 rows selected
+Adentro: 500
+500 rows committed
+> >
+178000 rows selected
+Adentro: 500
+500 rows committed
+> >
+178500 rows selected
+Adentro: 500
+500 rows committed
+> >
+179000 rows selected
+Adentro: 500
+500 rows committed
+> >
+179500 rows selected
+Adentro: 500
+500 rows committed
+> >
+180000 rows selected
+Adentro: 500
+500 rows committed
+> >
+180500 rows selected
+Adentro: 500
+500 rows committed
+> >
+181000 rows selected
+Adentro: 500
+500 rows committed
+> >
+181500 rows selected
+Adentro: 500
+500 rows committed
+> >
+182000 rows selected
+Adentro: 500
+500 rows committed
+> >
+182500 rows selected
+Adentro: 500
+500 rows committed
+> >
+183000 rows selected
+Adentro: 500
+500 rows committed
+> >
+183500 rows selected
+Adentro: 500
+500 rows committed
+> >
+184000 rows selected
+Adentro: 500
+500 rows committed
+> >
+184500 rows selected
+Adentro: 500
+500 rows committed
+> >
+185000 rows selected
+Adentro: 500
+500 rows committed
+> >
+185500 rows selected
+Adentro: 500
+500 rows committed
+> >
+186000 rows selected
+Adentro: 500
+500 rows committed
+> >
+186500 rows selected
+Adentro: 500
+500 rows committed
+> >
+187000 rows selected
+Adentro: 500
+500 rows committed
+> >
+187500 rows selected
+Adentro: 500
+500 rows committed
+> >
+188000 rows selected
+Adentro: 500
+500 rows committed
+> >
+188500 rows selected
+Adentro: 500
+500 rows committed
+> >
+189000 rows selected
+Adentro: 500
+500 rows committed
+> >
+189500 rows selected
+Adentro: 500
+500 rows committed
+> >
+190000 rows selected
+Adentro: 500
+500 rows committed
+> >
+190500 rows selected
+Adentro: 500
+500 rows committed
+> >
+191000 rows selected
+Adentro: 500
+500 rows committed
+> >
+191500 rows selected
+Adentro: 500
+500 rows committed
+> >
+192000 rows selected
+Adentro: 500
+500 rows committed
+> >
+192500 rows selected
+Adentro: 500
+500 rows committed
+> >
+193000 rows selected
+Adentro: 500
+500 rows committed
+> >
+193500 rows selected
+Adentro: 500
+500 rows committed
+> >
+194000 rows selected
+Adentro: 500
+500 rows committed
+> >
+194500 rows selected
+Adentro: 500
+500 rows committed
+> >
+195000 rows selected
+Adentro: 500
+500 rows committed
+> >
+195500 rows selected
+Adentro: 500
+500 rows committed
+> >
+196000 rows selected
+Adentro: 500
+500 rows committed
+> >
+196500 rows selected
+Adentro: 500
+500 rows committed
+> >
+197000 rows selected
+Adentro: 500
+500 rows committed
+> >
+197500 rows selected
+Adentro: 500
+500 rows committed
+> >
+198000 rows selected
+Adentro: 500
+500 rows committed
+> >
+198500 rows selected
+Adentro: 500
+500 rows committed
+> >
+199000 rows selected
+Adentro: 500
+500 rows committed
+> >
+199500 rows selected
+Adentro: 500
+500 rows committed
+> >
+200000 rows selected
+Adentro: 500
+500 rows committed
+> >
+200500 rows selected
+Adentro: 500
+500 rows committed
+> >
+201000 rows selected
+Adentro: 500
+500 rows committed
+> >
+201500 rows selected
+Adentro: 500
+500 rows committed
+> >
+202000 rows selected
+Adentro: 500
+500 rows committed
+> >
+202500 rows selected
+Adentro: 500
+500 rows committed
+> >
+203000 rows selected
+Adentro: 500
+500 rows committed
+> >
+203500 rows selected
+Adentro: 500
+500 rows committed
+> >
+204000 rows selected
+Adentro: 500
+500 rows committed
+> >
+204500 rows selected
+Adentro: 500
+500 rows committed
+> >
+205000 rows selected
+Adentro: 500
+500 rows committed
+> >
+205500 rows selected
+Adentro: 500
+500 rows committed
+> >
+206000 rows selected
+Adentro: 500
+500 rows committed
+> >
+206500 rows selected
+Adentro: 500
+500 rows committed
+> >
+207000 rows selected
+Adentro: 500
+500 rows committed
+> >
+207500 rows selected
+Adentro: 500
+500 rows committed
+> >
+208000 rows selected
+Adentro: 500
+500 rows committed
+> >
+208500 rows selected
+Adentro: 500
+500 rows committed
+> >
+209000 rows selected
+Adentro: 500
+500 rows committed
+> >
+209500 rows selected
+Adentro: 500
+500 rows committed
+> >
+210000 rows selected
+Adentro: 500
+500 rows committed
+> >
+210500 rows selected
+Adentro: 500
+500 rows committed
+> >
+211000 rows selected
+Adentro: 500
+500 rows committed
+> >
+211500 rows selected
+Adentro: 500
+500 rows committed
+> >
+212000 rows selected
+Adentro: 500
+500 rows committed
+> >
+212500 rows selected
+Adentro: 500
+500 rows committed
+> >
+213000 rows selected
+Adentro: 500
+500 rows committed
+> >
+213500 rows selected
+Adentro: 500
+500 rows committed
+> >
+214000 rows selected
+Adentro: 500
+500 rows committed
+> >
+214500 rows selected
+Adentro: 500
+500 rows committed
+> >
+215000 rows selected
+Adentro: 500
+500 rows committed
+> >
+215500 rows selected
+Adentro: 500
+500 rows committed
+> >
+216000 rows selected
+Adentro: 500
+500 rows committed
+> >
+216500 rows selected
+Adentro: 500
+500 rows committed
+> >
+217000 rows selected
+Adentro: 500
+500 rows committed
+> >
+217500 rows selected
+Adentro: 500
+500 rows committed
+> >
+218000 rows selected
+Adentro: 500
+500 rows committed
+> >
+218500 rows selected
+Adentro: 500
+500 rows committed
+> >
+219000 rows selected
+Adentro: 500
+500 rows committed
+> >
+219500 rows selected
+Adentro: 500
+500 rows committed
+> >
+220000 rows selected
+Adentro: 500
+500 rows committed
+> >
+220500 rows selected
+Adentro: 500
+500 rows committed
+> >
+221000 rows selected
+Adentro: 500
+500 rows committed
+> >
+221500 rows selected
+Adentro: 500
+500 rows committed
+> >
+222000 rows selected
+Adentro: 500
+500 rows committed
+> >
+222500 rows selected
+Adentro: 500
+500 rows committed
+> >
+223000 rows selected
+Adentro: 500
+500 rows committed
+> >
+223500 rows selected
+Adentro: 500
+500 rows committed
+> >
+224000 rows selected
+Adentro: 500
+500 rows committed
+> >
+224500 rows selected
+Adentro: 500
+500 rows committed
+> >
+225000 rows selected
+Adentro: 500
+500 rows committed
+> >
+225500 rows selected
+Adentro: 500
+500 rows committed
+> >
+226000 rows selected
+Adentro: 500
+500 rows committed
+> >
+226500 rows selected
+Adentro: 500
+500 rows committed
+> >
+227000 rows selected
+Adentro: 500
+500 rows committed
+> >
+227500 rows selected
+Adentro: 500
+500 rows committed
+> >
+228000 rows selected
+Adentro: 500
+500 rows committed
+> >
+228500 rows selected
+Adentro: 500
+500 rows committed
+> >
+229000 rows selected
+Adentro: 500
+500 rows committed
+> >
+229500 rows selected
+Adentro: 500
+500 rows committed
+> >
+230000 rows selected
+Adentro: 500
+500 rows committed
+> >
+230500 rows selected
+Adentro: 500
+500 rows committed
+> >
+231000 rows selected
+Adentro: 500
+500 rows committed
+> >
+231500 rows selected
+Adentro: 500
+500 rows committed
+> >
+232000 rows selected
+Adentro: 500
+500 rows committed
+> >
+232500 rows selected
+Adentro: 500
+500 rows committed
+> >
+233000 rows selected
+Adentro: 500
+500 rows committed
+> >
+233500 rows selected
+Adentro: 500
+500 rows committed
+> >
+234000 rows selected
+Adentro: 500
+500 rows committed
+> >
+234500 rows selected
+Adentro: 500
+500 rows committed
+> >
+235000 rows selected
+Adentro: 500
+500 rows committed
+> >
+235500 rows selected
+Adentro: 500
+500 rows committed
+> >
+236000 rows selected
+Adentro: 500
+500 rows committed
+> >
+236500 rows selected
+Adentro: 500
+500 rows committed
+> >
+237000 rows selected
+Adentro: 500
+500 rows committed
+> >
+237500 rows selected
+Adentro: 500
+500 rows committed
+> >
+238000 rows selected
+Adentro: 500
+500 rows committed
+> >
+238500 rows selected
+Adentro: 500
+500 rows committed
+> >
+239000 rows selected
+Adentro: 500
+500 rows committed
+> >
+239500 rows selected
+Adentro: 500
+500 rows committed
+> >
+240000 rows selected
+Adentro: 500
+500 rows committed
+> >
+240500 rows selected
+Adentro: 500
+500 rows committed
+> >
+241000 rows selected
+Adentro: 500
+500 rows committed
+> >
+241500 rows selected
+Adentro: 500
+500 rows committed
+> >
+242000 rows selected
+Adentro: 500
+500 rows committed
+> >
+242500 rows selected
+Adentro: 500
+500 rows committed
+> >
+243000 rows selected
+Adentro: 500
+500 rows committed
+> >
+243500 rows selected
+Adentro: 500
+500 rows committed
+> >
+244000 rows selected
+Adentro: 500
+500 rows committed
+> >
+244500 rows selected
+Adentro: 500
+500 rows committed
+> >
+245000 rows selected
+Adentro: 500
+500 rows committed
+> >
+245500 rows selected
+Adentro: 500
+500 rows committed
+> >
+246000 rows selected
+Adentro: 500
+500 rows committed
+> >
+246500 rows selected
+Adentro: 500
+500 rows committed
+> >
+247000 rows selected
+Adentro: 500
+500 rows committed
+> >
+247500 rows selected
+Adentro: 500
+500 rows committed
+> >
+248000 rows selected
+Adentro: 500
+500 rows committed
+> >
+248500 rows selected
+Adentro: 500
+500 rows committed
+> >
+249000 rows selected
+Adentro: 500
+500 rows committed
+> >
+249500 rows selected
+Adentro: 500
+500 rows committed
+> >
+250000 rows selected
+Adentro: 500
+500 rows committed
+> >
+250500 rows selected
+Adentro: 500
+500 rows committed
+> >
+251000 rows selected
+Adentro: 500
+500 rows committed
+> >
+251500 rows selected
+Adentro: 500
+500 rows committed
+> >
+252000 rows selected
+Adentro: 500
+500 rows committed
+> >
+252500 rows selected
+Adentro: 500
+500 rows committed
+> >
+253000 rows selected
+Adentro: 500
+500 rows committed
+> >
+253500 rows selected
+Adentro: 500
+500 rows committed
+> >
+254000 rows selected
+Adentro: 500
+500 rows committed
+> >
+254500 rows selected
+Adentro: 500
+500 rows committed
+> >
+255000 rows selected
+Adentro: 500
+500 rows committed
+> >
+255500 rows selected
+Adentro: 500
+500 rows committed
+> >
+256000 rows selected
+Adentro: 500
+500 rows committed
+> >
+256500 rows selected
+Adentro: 500
+500 rows committed
+> >
+257000 rows selected
+Adentro: 500
+500 rows committed
+> >
+257500 rows selected
+Adentro: 500
+500 rows committed
+> >
+258000 rows selected
+Adentro: 500
+500 rows committed
+> >
+258500 rows selected
+Adentro: 500
+500 rows committed
+> >
+259000 rows selected
+Adentro: 500
+500 rows committed
+> >
+259500 rows selected
+Adentro: 500
+500 rows committed
+> >
+260000 rows selected
+Adentro: 500
+500 rows committed
+> >
+260500 rows selected
+Adentro: 500
+500 rows committed
+> >
+261000 rows selected
+Adentro: 500
+500 rows committed
+> >
+261500 rows selected
+Adentro: 500
+500 rows committed
+> >
+262000 rows selected
+Adentro: 500
+500 rows committed
+> >
+262500 rows selected
+Adentro: 500
+500 rows committed
+> >
+263000 rows selected
+Adentro: 500
+500 rows committed
+> >
+263500 rows selected
+Adentro: 500
+500 rows committed
+> >
+264000 rows selected
+Adentro: 500
+500 rows committed
+> >
+264500 rows selected
+Adentro: 500
+500 rows committed
+> >
+265000 rows selected
+Adentro: 500
+500 rows committed
+> >
+265500 rows selected
+Adentro: 500
+500 rows committed
+> >
+266000 rows selected
+Adentro: 500
+500 rows committed
+> >
+266500 rows selected
+Adentro: 500
+500 rows committed
+> >
+267000 rows selected
+Adentro: 500
+500 rows committed
+> >
+267500 rows selected
+Adentro: 500
+500 rows committed
+> >
+268000 rows selected
+Adentro: 500
+500 rows committed
+> >
+268500 rows selected
+Adentro: 500
+500 rows committed
+> >
+269000 rows selected
+Adentro: 500
+500 rows committed
+> >
+269500 rows selected
+Adentro: 500
+500 rows committed
+> >
+270000 rows selected
+Adentro: 500
+500 rows committed
+> >
+270500 rows selected
+Adentro: 500
+500 rows committed
+> >
+271000 rows selected
+Adentro: 500
+500 rows committed
+> >
+271500 rows selected
+Adentro: 500
+500 rows committed
+> >
+272000 rows selected
+Adentro: 500
+500 rows committed
+> >
+272500 rows selected
+Adentro: 500
+500 rows committed
+> >
+273000 rows selected
+Adentro: 500
+500 rows committed
+> >
+273500 rows selected
+Adentro: 500
+500 rows committed
+> >
+274000 rows selected
+Adentro: 500
+500 rows committed
+> >
+274500 rows selected
+Adentro: 500
+500 rows committed
+> >
+275000 rows selected
+Adentro: 500
+500 rows committed
+> >
+275500 rows selected
+Adentro: 500
+500 rows committed
+> >
+276000 rows selected
+Adentro: 500
+500 rows committed
+> >
+276500 rows selected
+Adentro: 500
+500 rows committed
+> >
+277000 rows selected
+Adentro: 500
+500 rows committed
+> >
+277500 rows selected
+Adentro: 500
+500 rows committed
+> >
+278000 rows selected
+Adentro: 500
+500 rows committed
+> >
+278500 rows selected
+Adentro: 500
+500 rows committed
+> >
+279000 rows selected
+Adentro: 500
+500 rows committed
+> >
+279500 rows selected
+Adentro: 500
+500 rows committed
+> >
+280000 rows selected
+Adentro: 500
+500 rows committed
+> >
+280500 rows selected
+Adentro: 500
+500 rows committed
+> >
+281000 rows selected
+Adentro: 500
+500 rows committed
+> >
+281500 rows selected
+Adentro: 500
+500 rows committed
+> >
+282000 rows selected
+Adentro: 500
+500 rows committed
+> >
+282500 rows selected
+Adentro: 500
+500 rows committed
+> >
+283000 rows selected
+Adentro: 500
+500 rows committed
+> >
+283500 rows selected
+Adentro: 500
+500 rows committed
+> >
+284000 rows selected
+Adentro: 500
+500 rows committed
+> >
+284500 rows selected
+Adentro: 500
+500 rows committed
+> >
+285000 rows selected
+Adentro: 500
+500 rows committed
+> >
+285500 rows selected
+Adentro: 500
+500 rows committed
+> >
+286000 rows selected
+Adentro: 500
+500 rows committed
+> >
+286500 rows selected
+Adentro: 500
+500 rows committed
+> >
+287000 rows selected
+Adentro: 500
+500 rows committed
+> >
+287500 rows selected
+Adentro: 500
+500 rows committed
+> >
+288000 rows selected
+Adentro: 500
+500 rows committed
+> >
+288500 rows selected
+Adentro: 500
+500 rows committed
+> >
+289000 rows selected
+Adentro: 500
+500 rows committed
+> >
+289500 rows selected
+Adentro: 500
+500 rows committed
+> >
+290000 rows selected
+Adentro: 500
+500 rows committed
+> >
+290500 rows selected
+Adentro: 500
+500 rows committed
+> >
+291000 rows selected
+Adentro: 500
+500 rows committed
+> >
+291500 rows selected
+Adentro: 500
+500 rows committed
+> >
+292000 rows selected
+Adentro: 500
+500 rows committed
+> >
+292500 rows selected
+Adentro: 500
+500 rows committed
+> >
+293000 rows selected
+Adentro: 500
+500 rows committed
+> >
+293500 rows selected
+Adentro: 500
+500 rows committed
+> >
+294000 rows selected
+Adentro: 500
+500 rows committed
+> >
+294500 rows selected
+Adentro: 500
+500 rows committed
+> >
+295000 rows selected
+Adentro: 500
+500 rows committed
+> >
+295500 rows selected
+Adentro: 500
+500 rows committed
+> >
+296000 rows selected
+Adentro: 500
+500 rows committed
+> >
+296500 rows selected
+Adentro: 500
+500 rows committed
+> >
+297000 rows selected
+Adentro: 500
+500 rows committed
+> >
+297500 rows selected
+Adentro: 500
+500 rows committed
+> >
+298000 rows selected
+Adentro: 500
+500 rows committed
+> >
+298500 rows selected
+Adentro: 500
+500 rows committed
+> >
+299000 rows selected
+Adentro: 500
+500 rows committed
+> >
+299500 rows selected
+Adentro: 500
+500 rows committed
+> >
+300000 rows selected
+Adentro: 500
+500 rows committed
+> >
+300500 rows selected
+Adentro: 500
+500 rows committed
+> >
+301000 rows selected
+Adentro: 500
+500 rows committed
+> >
+301500 rows selected
+Adentro: 500
+500 rows committed
+> >
+302000 rows selected
+Adentro: 500
+500 rows committed
+> >
+302500 rows selected
+Adentro: 500
+500 rows committed
+> >
+303000 rows selected
+Adentro: 500
+500 rows committed
+> >
+303500 rows selected
+Adentro: 500
+500 rows committed
+> >
+304000 rows selected
+Adentro: 500
+500 rows committed
+> >
+304500 rows selected
+Adentro: 500
+500 rows committed
+> >
+305000 rows selected
+Adentro: 500
+500 rows committed
+> >
+305500 rows selected
+Adentro: 500
+500 rows committed
+> >
+306000 rows selected
+Adentro: 500
+500 rows committed
+> >
+306500 rows selected
+Adentro: 500
+500 rows committed
+> >
+307000 rows selected
+Adentro: 500
+500 rows committed
+> >
+307500 rows selected
+Adentro: 500
+500 rows committed
+> >
+308000 rows selected
+Adentro: 500
+500 rows committed
+> >
+308500 rows selected
+Adentro: 500
+500 rows committed
+> >
+309000 rows selected
+Adentro: 500
+500 rows committed
+> >
+309500 rows selected
+Adentro: 500
+500 rows committed
+> >
+310000 rows selected
+Adentro: 500
+500 rows committed
+> >
+310500 rows selected
+Adentro: 500
+500 rows committed
+> >
+311000 rows selected
+Adentro: 500
+500 rows committed
+> >
+311500 rows selected
+Adentro: 500
+500 rows committed
+> >
+312000 rows selected
+Adentro: 500
+500 rows committed
+> >
+312500 rows selected
+Adentro: 500
+500 rows committed
+> >
+313000 rows selected
+Adentro: 500
+500 rows committed
+> >
+313500 rows selected
+Adentro: 500
+500 rows committed
+> >
+314000 rows selected
+Adentro: 500
+500 rows committed
+> >
+314500 rows selected
+Adentro: 500
+500 rows committed
+> >
+315000 rows selected
+Adentro: 500
+500 rows committed
+> >
+315500 rows selected
+Adentro: 500
+500 rows committed
+> >
+316000 rows selected
+Adentro: 500
+500 rows committed
+> >
+316500 rows selected
+Adentro: 500
+500 rows committed
+> >
+317000 rows selected
+Adentro: 500
+500 rows committed
+> >
+317500 rows selected
+Adentro: 500
+500 rows committed
+> >
+318000 rows selected
+Adentro: 500
+500 rows committed
+> >
+318500 rows selected
+Adentro: 500
+500 rows committed
+> >
+319000 rows selected
+Adentro: 500
+500 rows committed
+> >
+319500 rows selected
+Adentro: 500
+500 rows committed
+> >
+320000 rows selected
+Adentro: 500
+500 rows committed
+> >
+320500 rows selected
+Adentro: 500
+500 rows committed
+> >
+321000 rows selected
+Adentro: 500
+500 rows committed
+> >
+321500 rows selected
+Adentro: 500
+500 rows committed
+> >
+322000 rows selected
+Adentro: 500
+500 rows committed
+> >
+322500 rows selected
+Adentro: 500
+500 rows committed
+> >
+323000 rows selected
+Adentro: 500
+500 rows committed
+> >
+323500 rows selected
+Adentro: 500
+500 rows committed
+> >
+324000 rows selected
+Adentro: 500
+500 rows committed
+> >
+324500 rows selected
+Adentro: 500
+500 rows committed
+> >
+325000 rows selected
+Adentro: 500
+500 rows committed
+> >
+325500 rows selected
+Adentro: 500
+500 rows committed
+> >
+326000 rows selected
+Adentro: 500
+500 rows committed
+> >
+326500 rows selected
+Adentro: 500
+500 rows committed
+> >
+327000 rows selected
+Adentro: 500
+500 rows committed
+> >
+327500 rows selected
+Adentro: 500
+500 rows committed
+> >
+328000 rows selected
+Adentro: 500
+500 rows committed
+> >
+328500 rows selected
+Adentro: 500
+500 rows committed
+> >
+329000 rows selected
+Adentro: 500
+500 rows committed
+> >
+329500 rows selected
+Adentro: 500
+500 rows committed
+> >
+330000 rows selected
+Adentro: 500
+500 rows committed
+> >
+330500 rows selected
+Adentro: 500
+500 rows committed
+> >
+331000 rows selected
+Adentro: 500
+500 rows committed
+> >
+331500 rows selected
+Adentro: 500
+500 rows committed
+> >
+332000 rows selected
+Adentro: 500
+500 rows committed
+> >
+332500 rows selected
+Adentro: 500
+500 rows committed
+> >
+333000 rows selected
+Adentro: 500
+500 rows committed
+> >
+333500 rows selected
+Adentro: 500
+500 rows committed
+> >
+334000 rows selected
+Adentro: 500
+500 rows committed
+> >
+334500 rows selected
+Adentro: 500
+500 rows committed
+> >
+335000 rows selected
+Adentro: 500
+500 rows committed
+> >
+335500 rows selected
+Adentro: 500
+500 rows committed
+> >
+336000 rows selected
+Adentro: 500
+500 rows committed
+> >
+336500 rows selected
+Adentro: 500
+500 rows committed
+> >
+337000 rows selected
+Adentro: 500
+500 rows committed
+> >
+337500 rows selected
+Adentro: 500
+500 rows committed
+> >
+338000 rows selected
+Adentro: 500
+500 rows committed
+> >
+338500 rows selected
+Adentro: 500
+500 rows committed
+> >
+339000 rows selected
+Adentro: 500
+500 rows committed
+> >
+339500 rows selected
+Adentro: 500
+500 rows committed
+> >
+340000 rows selected
+Adentro: 500
+500 rows committed
+> >
+340500 rows selected
+Adentro: 500
+500 rows committed
+> >
+341000 rows selected
+Adentro: 500
+500 rows committed
+> >
+341500 rows selected
+Adentro: 500
+500 rows committed
+> >
+342000 rows selected
+Adentro: 500
+500 rows committed
+> >
+342500 rows selected
+Adentro: 500
+500 rows committed
+> >
+343000 rows selected
+Adentro: 500
+500 rows committed
+> >
+343500 rows selected
+Adentro: 500
+500 rows committed
+> >
+344000 rows selected
+Adentro: 500
+500 rows committed
+> >
+344500 rows selected
+Adentro: 500
+500 rows committed
+> >
+345000 rows selected
+Adentro: 500
+500 rows committed
+> >
+345500 rows selected
+Adentro: 500
+500 rows committed
+> >
+346000 rows selected
+Adentro: 500
+500 rows committed
+> >
+346500 rows selected
+Adentro: 500
+500 rows committed
+> >
+347000 rows selected
+Adentro: 500
+500 rows committed
+> >
+347500 rows selected
+Adentro: 500
+500 rows committed
+> >
+348000 rows selected
+Adentro: 500
+500 rows committed
+> >
+348500 rows selected
+Adentro: 500
+500 rows committed
+> >
+349000 rows selected
+Adentro: 500
+500 rows committed
+> >
+349500 rows selected
+Adentro: 500
+500 rows committed
+> >
+350000 rows selected
+Adentro: 500
+500 rows committed
+> >
+350500 rows selected
+Adentro: 500
+500 rows committed
+> >
+351000 rows selected
+Adentro: 500
+500 rows committed
+> >
+351500 rows selected
+Adentro: 500
+500 rows committed
+> >
+352000 rows selected
+Adentro: 500
+500 rows committed
+> >
+352500 rows selected
+Adentro: 500
+500 rows committed
+> >
+353000 rows selected
+Adentro: 500
+500 rows committed
+> >
+353500 rows selected
+Adentro: 500
+500 rows committed
+> >
+354000 rows selected
+Adentro: 500
+500 rows committed
+> >
+354500 rows selected
+Adentro: 500
+500 rows committed
+> >
+355000 rows selected
+Adentro: 500
+500 rows committed
+> >
+355500 rows selected
+Adentro: 500
+500 rows committed
+> >
+356000 rows selected
+Adentro: 500
+500 rows committed
+> >
+356500 rows selected
+Adentro: 500
+500 rows committed
+> >
+357000 rows selected
+Adentro: 500
+500 rows committed
+> >
+357500 rows selected
+Adentro: 500
+500 rows committed
+> >
+358000 rows selected
+Adentro: 500
+500 rows committed
+> >
+358500 rows selected
+Adentro: 500
+500 rows committed
+> >
+359000 rows selected
+Adentro: 500
+500 rows committed
+> >
+359500 rows selected
+Adentro: 500
+500 rows committed
+> >
+360000 rows selected
+Adentro: 500
+500 rows committed
+> >
+360500 rows selected
+Adentro: 500
+500 rows committed
+> >
+361000 rows selected
+Adentro: 500
+500 rows committed
+> >
+361500 rows selected
+Adentro: 500
+500 rows committed
+> >
+362000 rows selected
+Adentro: 500
+500 rows committed
+> >
+362500 rows selected
+Adentro: 500
+500 rows committed
+> >
+363000 rows selected
+Adentro: 500
+500 rows committed
+> >
+363500 rows selected
+Adentro: 500
+500 rows committed
+> >
+364000 rows selected
+Adentro: 500
+500 rows committed
+> >
+364500 rows selected
+Adentro: 500
+500 rows committed
+> >
+365000 rows selected
+Adentro: 500
+500 rows committed
+> >
+365500 rows selected
+Adentro: 500
+500 rows committed
+> >
+366000 rows selected
+Adentro: 500
+500 rows committed
+> >
+366500 rows selected
+Adentro: 500
+500 rows committed
+> >
+367000 rows selected
+Adentro: 500
+500 rows committed
+> >
+367500 rows selected
+Adentro: 500
+500 rows committed
+> >
+368000 rows selected
+Adentro: 500
+500 rows committed
+> >
+368500 rows selected
+Adentro: 500
+500 rows committed
+> >
+369000 rows selected
+Adentro: 500
+500 rows committed
+> >
+369500 rows selected
+Adentro: 500
+500 rows committed
+> >
+370000 rows selected
+Adentro: 500
+500 rows committed
+> >
+370500 rows selected
+Adentro: 500
+500 rows committed
+> >
+371000 rows selected
+Adentro: 500
+500 rows committed
+> >
+371500 rows selected
+Adentro: 500
+500 rows committed
+> >
+372000 rows selected
+Adentro: 500
+500 rows committed
+> >
+372500 rows selected
+Adentro: 500
+500 rows committed
+> >
+373000 rows selected
+Adentro: 500
+500 rows committed
+> >
+373500 rows selected
+Adentro: 500
+500 rows committed
+> >
+374000 rows selected
+Adentro: 500
+500 rows committed
+> >
+374500 rows selected
+Adentro: 500
+500 rows committed
+> >
+375000 rows selected
+Adentro: 500
+500 rows committed
+> >
+375500 rows selected
+Adentro: 500
+500 rows committed
+> >
+376000 rows selected
+Adentro: 500
+500 rows committed
+> >
+376500 rows selected
+Adentro: 500
+500 rows committed
+> >
+377000 rows selected
+Adentro: 500
+500 rows committed
+> >
+377500 rows selected
+Adentro: 500
+500 rows committed
+> >
+378000 rows selected
+Adentro: 500
+500 rows committed
+> >
+378500 rows selected
+Adentro: 500
+500 rows committed
+> >
+379000 rows selected
+Adentro: 500
+500 rows committed
+> >
+379500 rows selected
+Adentro: 500
+500 rows committed
+> >
+380000 rows selected
+Adentro: 500
+500 rows committed
+> >
+380500 rows selected
+Adentro: 500
+500 rows committed
+> >
+381000 rows selected
+Adentro: 500
+500 rows committed
+> >
+381500 rows selected
+Adentro: 500
+500 rows committed
+> >
+382000 rows selected
+Adentro: 500
+500 rows committed
+> >
+382500 rows selected
+Adentro: 500
+500 rows committed
+> >
+383000 rows selected
+Adentro: 500
+500 rows committed
+> >
+383500 rows selected
+Adentro: 500
+500 rows committed
+> >
+384000 rows selected
+Adentro: 500
+500 rows committed
+> >
+384500 rows selected
+Adentro: 500
+500 rows committed
+> >
+385000 rows selected
+Adentro: 500
+500 rows committed
+> >
+385500 rows selected
+Adentro: 500
+500 rows committed
+> >
+386000 rows selected
+Adentro: 500
+500 rows committed
+> >
+386500 rows selected
+Adentro: 500
+500 rows committed
+> >
+387000 rows selected
+Adentro: 500
+500 rows committed
+> >
+387500 rows selected
+Adentro: 500
+500 rows committed
+> >
+388000 rows selected
+Adentro: 500
+500 rows committed
+> >
+388500 rows selected
+Adentro: 500
+500 rows committed
+> >
+389000 rows selected
+Adentro: 500
+500 rows committed
+> >
+389500 rows selected
+Adentro: 500
+500 rows committed
+> >
+390000 rows selected
+Adentro: 500
+500 rows committed
+> >
+390500 rows selected
+Adentro: 500
+500 rows committed
+> >
+391000 rows selected
+Adentro: 500
+500 rows committed
+> >
+391500 rows selected
+Adentro: 500
+500 rows committed
+> >
+392000 rows selected
+Adentro: 500
+500 rows committed
+> >
+392500 rows selected
+Adentro: 500
+500 rows committed
+> >
+393000 rows selected
+Adentro: 500
+500 rows committed
+> >
+393500 rows selected
+Adentro: 500
+500 rows committed
+> >
+394000 rows selected
+Adentro: 500
+500 rows committed
+> >
+394500 rows selected
+Adentro: 500
+500 rows committed
+> >
+395000 rows selected
+Adentro: 500
+500 rows committed
+> >
+395500 rows selected
+Adentro: 500
+500 rows committed
+> >
+396000 rows selected
+Adentro: 500
+500 rows committed
+> >
+396500 rows selected
+Adentro: 500
+500 rows committed
+> >
+397000 rows selected
+Adentro: 500
+500 rows committed
+> >
+397500 rows selected
+Adentro: 500
+500 rows committed
+> >
+398000 rows selected
+Adentro: 500
+500 rows committed
+> >
+398500 rows selected
+Adentro: 500
+500 rows committed
+> >
+399000 rows selected
+Adentro: 500
+500 rows committed
+> >
+399500 rows selected
+Adentro: 500
+500 rows committed
+> >
+400000 rows selected
+Adentro: 500
+500 rows committed
+> >
+400500 rows selected
+Adentro: 500
+500 rows committed
+> >
+401000 rows selected
+Adentro: 500
+500 rows committed
+> >
+401500 rows selected
+Adentro: 500
+500 rows committed
+> >
+402000 rows selected
+Adentro: 500
+500 rows committed
+> >
+402500 rows selected
+Adentro: 500
+500 rows committed
+> >
+403000 rows selected
+Adentro: 500
+500 rows committed
+> >
+403500 rows selected
+Adentro: 500
+500 rows committed
+> >
+404000 rows selected
+Adentro: 500
+500 rows committed
+> >
+404500 rows selected
+Adentro: 500
+500 rows committed
+> >
+405000 rows selected
+Adentro: 500
+500 rows committed
+> >
+405500 rows selected
+Adentro: 500
+500 rows committed
+> >
+406000 rows selected
+Adentro: 500
+500 rows committed
+> >
+406500 rows selected
+Adentro: 500
+500 rows committed
+> >
+407000 rows selected
+Adentro: 500
+500 rows committed
+> >
+407500 rows selected
+Adentro: 500
+500 rows committed
+> >
+408000 rows selected
+Adentro: 500
+500 rows committed
+> >
+408500 rows selected
+Adentro: 500
+500 rows committed
+> >
+409000 rows selected
+Adentro: 500
+500 rows committed
+> >
+409500 rows selected
+Adentro: 500
+500 rows committed
+> >
+410000 rows selected
+Adentro: 500
+500 rows committed
+> >
+410500 rows selected
+Adentro: 500
+500 rows committed
+> >
+411000 rows selected
+Adentro: 500
+500 rows committed
+> >
+411500 rows selected
+Adentro: 500
+500 rows committed
+> >
+412000 rows selected
+Adentro: 500
+500 rows committed
+> >
+412500 rows selected
+Adentro: 500
+500 rows committed
+> >
+413000 rows selected
+Adentro: 500
+500 rows committed
+> >
+413500 rows selected
+Adentro: 500
+500 rows committed
+> >
+414000 rows selected
+Adentro: 500
+500 rows committed
+> >
+414500 rows selected
+Adentro: 500
+500 rows committed
+> >
+415000 rows selected
+Adentro: 500
+500 rows committed
+> >
+415500 rows selected
+Adentro: 500
+500 rows committed
+> >
+416000 rows selected
+Adentro: 500
+500 rows committed
+> >
+416500 rows selected
+Adentro: 500
+500 rows committed
+> >
+417000 rows selected
+Adentro: 500
+500 rows committed
+> >
+417500 rows selected
+Adentro: 500
+500 rows committed
+> >
+418000 rows selected
+Adentro: 500
+500 rows committed
+> >
+418500 rows selected
+Adentro: 500
+500 rows committed
+> >
+419000 rows selected
+Adentro: 500
+500 rows committed
+> >
+419500 rows selected
+Adentro: 500
+500 rows committed
+> >
+420000 rows selected
+Adentro: 500
+500 rows committed
+> >
+420500 rows selected
+Adentro: 500
+500 rows committed
+> >
+421000 rows selected
+Adentro: 500
+500 rows committed
+> >
+421500 rows selected
+Adentro: 500
+500 rows committed
+> >
+422000 rows selected
+Adentro: 500
+500 rows committed
+> >
+422500 rows selected
+Adentro: 500
+500 rows committed
+> >
+423000 rows selected
+Adentro: 500
+500 rows committed
+> >
+423500 rows selected
+Adentro: 500
+500 rows committed
+> >
+424000 rows selected
+Adentro: 500
+500 rows committed
+> >
+424500 rows selected
+Adentro: 500
+500 rows committed
+> >
+425000 rows selected
+Adentro: 500
+500 rows committed
+> >
+425500 rows selected
+Adentro: 500
+500 rows committed
+> >
+426000 rows selected
+Adentro: 500
+500 rows committed
+> >
+426500 rows selected
+Adentro: 500
+500 rows committed
+> >
+427000 rows selected
+Adentro: 500
+500 rows committed
+> >
+427500 rows selected
+Adentro: 500
+500 rows committed
+> >
+428000 rows selected
+Adentro: 500
+500 rows committed
+> >
+428500 rows selected
+Adentro: 500
+500 rows committed
+> >
+429000 rows selected
+Adentro: 500
+500 rows committed
+> >
+429500 rows selected
+Adentro: 500
+500 rows committed
+> >
+430000 rows selected
+Adentro: 500
+500 rows committed
+> >
+430500 rows selected
+Adentro: 500
+500 rows committed
+> >
+431000 rows selected
+Adentro: 500
+500 rows committed
+> >
+431500 rows selected
+Adentro: 500
+500 rows committed
+> >
+432000 rows selected
+Adentro: 500
+500 rows committed
+> >
+432500 rows selected
+Adentro: 500
+500 rows committed
+> >
+433000 rows selected
+Adentro: 500
+500 rows committed
+> >
+433500 rows selected
+Adentro: 500
+500 rows committed
+> >
+434000 rows selected
+Adentro: 500
+500 rows committed
+> >
+434500 rows selected
+Adentro: 500
+500 rows committed
+> >
+435000 rows selected
+Adentro: 500
+500 rows committed
+> >
+435500 rows selected
+Adentro: 500
+500 rows committed
+> >
+436000 rows selected
+Adentro: 500
+500 rows committed
+> >
+436500 rows selected
+Adentro: 500
+500 rows committed
+> >
+437000 rows selected
+Adentro: 500
+500 rows committed
+> >
+437500 rows selected
+Adentro: 500
+500 rows committed
+> >
+438000 rows selected
+Adentro: 500
+500 rows committed
+> >
+438500 rows selected
+Adentro: 500
+500 rows committed
+> >
+439000 rows selected
+Adentro: 500
+500 rows committed
+> >
+439500 rows selected
+Adentro: 500
+500 rows committed
+> >
+440000 rows selected
+Adentro: 500
+500 rows committed
+> >
+440500 rows selected
+Adentro: 500
+500 rows committed
+> >
+441000 rows selected
+Adentro: 500
+500 rows committed
+> >
+441500 rows selected
+Adentro: 500
+500 rows committed
+> >
+442000 rows selected
+Adentro: 500
+500 rows committed
+> >
+442500 rows selected
+Adentro: 500
+500 rows committed
+> >
+443000 rows selected
+Adentro: 500
+500 rows committed
+> >
+443500 rows selected
+Adentro: 500
+500 rows committed
+> >
+444000 rows selected
+Adentro: 500
+500 rows committed
+> >
+444500 rows selected
+Adentro: 500
+500 rows committed
+> >
+445000 rows selected
+Adentro: 500
+500 rows committed
+> >
+445500 rows selected
+Adentro: 500
+500 rows committed
+> >
+446000 rows selected
+Adentro: 500
+500 rows committed
+> >
+446500 rows selected
+Adentro: 500
+500 rows committed
+> >
+447000 rows selected
+Adentro: 500
+500 rows committed
+> >
+447500 rows selected
+Adentro: 500
+500 rows committed
+> >
+448000 rows selected
+Adentro: 500
+500 rows committed
+> >
+448500 rows selected
+Adentro: 500
+500 rows committed
+> >
+449000 rows selected
+Adentro: 500
+500 rows committed
+> >
+449500 rows selected
+Adentro: 500
+500 rows committed
+> >
+450000 rows selected
+Adentro: 500
+500 rows committed
+> >
+450500 rows selected
+Adentro: 500
+500 rows committed
+> >
+451000 rows selected
+Adentro: 500
+500 rows committed
+> >
+451500 rows selected
+Adentro: 500
+500 rows committed
+> >
+452000 rows selected
+Adentro: 500
+500 rows committed
+> >
+452500 rows selected
+Adentro: 500
+500 rows committed
+> >
+453000 rows selected
+Adentro: 500
+500 rows committed
+> >
+453500 rows selected
+Adentro: 500
+500 rows committed
+> >
+454000 rows selected
+Adentro: 500
+500 rows committed
+> >
+454500 rows selected
+Adentro: 500
+500 rows committed
+> >
+455000 rows selected
+Adentro: 500
+500 rows committed
+> >
+455500 rows selected
+Adentro: 500
+500 rows committed
+> >
+456000 rows selected
+Adentro: 500
+500 rows committed
+> >
+456500 rows selected
+Adentro: 500
+500 rows committed
+> >
+457000 rows selected
+Adentro: 500
+500 rows committed
+> >
+457500 rows selected
+Adentro: 500
+500 rows committed
+> >
+458000 rows selected
+Adentro: 500
+500 rows committed
+> >
+458500 rows selected
+Adentro: 500
+500 rows committed
+> >
+459000 rows selected
+Adentro: 500
+500 rows committed
+> >
+459500 rows selected
+Adentro: 500
+500 rows committed
+> >
+460000 rows selected
+Adentro: 500
+500 rows committed
+> >
+460500 rows selected
+Adentro: 500
+500 rows committed
+> >
+461000 rows selected
+Adentro: 500
+500 rows committed
+> >
+461500 rows selected
+Adentro: 500
+500 rows committed
+> >
+462000 rows selected
+Adentro: 500
+500 rows committed
+> >
+462500 rows selected
+Adentro: 500
+500 rows committed
+> >
+463000 rows selected
+Adentro: 500
+500 rows committed
+> >
+463500 rows selected
+Adentro: 500
+500 rows committed
+> >
+464000 rows selected
+Adentro: 500
+500 rows committed
+> >
+464500 rows selected
+Adentro: 500
+500 rows committed
+> >
+465000 rows selected
+Adentro: 500
+500 rows committed
+> >
+465500 rows selected
+Adentro: 500
+500 rows committed
+> >
+466000 rows selected
+Adentro: 500
+500 rows committed
+> >
+466500 rows selected
+Adentro: 500
+500 rows committed
+> >
+467000 rows selected
+Adentro: 500
+500 rows committed
+> >
+467500 rows selected
+Adentro: 500
+500 rows committed
+> >
+468000 rows selected
+Adentro: 500
+500 rows committed
+> >
+468500 rows selected
+Adentro: 500
+500 rows committed
+> >
+469000 rows selected
+Adentro: 500
+500 rows committed
+> >
+469500 rows selected
+Adentro: 500
+500 rows committed
+> >
+470000 rows selected
+Adentro: 500
+500 rows committed
+> >
+470500 rows selected
+Adentro: 500
+500 rows committed
+> >
+471000 rows selected
+Adentro: 500
+500 rows committed
+> >
+471500 rows selected
+Adentro: 500
+500 rows committed
+> >
+472000 rows selected
+Adentro: 500
+500 rows committed
+> >
+472500 rows selected
+Adentro: 500
+500 rows committed
+> >
+473000 rows selected
+Adentro: 500
+500 rows committed
+> >
+473500 rows selected
+Adentro: 500
+500 rows committed
+> >
+474000 rows selected
+Adentro: 500
+500 rows committed
+> >
+474500 rows selected
+Adentro: 500
+500 rows committed
+> >
+475000 rows selected
+Adentro: 500
+500 rows committed
+> >
+475500 rows selected
+Adentro: 500
+500 rows committed
+> >
+476000 rows selected
+Adentro: 500
+500 rows committed
+> >
+476500 rows selected
+Adentro: 500
+500 rows committed
+> >
+477000 rows selected
+Adentro: 500
+500 rows committed
+> >
+477500 rows selected
+Adentro: 500
+500 rows committed
+> >
+478000 rows selected
+Adentro: 500
+500 rows committed
+> >
+478500 rows selected
+Adentro: 500
+500 rows committed
+> >
+479000 rows selected
+Adentro: 500
+500 rows committed
+> >
+479500 rows selected
+Adentro: 500
+500 rows committed
+> >
+480000 rows selected
+Adentro: 500
+500 rows committed
+> >
+480500 rows selected
+Adentro: 500
+500 rows committed
+> >
+481000 rows selected
+Adentro: 500
+500 rows committed
+> >
+481500 rows selected
+Adentro: 500
+500 rows committed
+> >
+482000 rows selected
+Adentro: 500
+500 rows committed
+> >
+482500 rows selected
+Adentro: 500
+500 rows committed
+> >
+483000 rows selected
+Adentro: 500
+500 rows committed
+> >
+483500 rows selected
+Adentro: 500
+500 rows committed
+> >
+484000 rows selected
+Adentro: 500
+500 rows committed
+> >
+484500 rows selected
+Adentro: 500
+500 rows committed
+> >
+485000 rows selected
+Adentro: 500
+500 rows committed
+> >
+485500 rows selected
+Adentro: 500
+500 rows committed
+> >
+486000 rows selected
+Adentro: 500
+500 rows committed
+> >
+486500 rows selected
+Adentro: 500
+500 rows committed
+> >
+487000 rows selected
+Adentro: 500
+500 rows committed
+> >
+487500 rows selected
+Adentro: 500
+500 rows committed
+> >
+488000 rows selected
+Adentro: 500
+500 rows committed
+> >
+488500 rows selected
+Adentro: 500
+500 rows committed
+> >
+489000 rows selected
+Adentro: 500
+500 rows committed
+> >
+489500 rows selected
+Adentro: 500
+500 rows committed
+> >
+490000 rows selected
+Adentro: 500
+500 rows committed
+> >
+490500 rows selected
+Adentro: 500
+500 rows committed
+> >
+491000 rows selected
+Adentro: 500
+500 rows committed
+> >
+491500 rows selected
+Adentro: 500
+500 rows committed
+> >
+492000 rows selected
+Adentro: 500
+500 rows committed
+> >
+492500 rows selected
+Adentro: 500
+500 rows committed
+> >
+493000 rows selected
+Adentro: 500
+500 rows committed
+> >
+493500 rows selected
+Adentro: 500
+500 rows committed
+> >
+494000 rows selected
+Adentro: 500
+500 rows committed
+> >
+494500 rows selected
+Adentro: 500
+500 rows committed
+> >
+495000 rows selected
+Adentro: 500
+500 rows committed
+> >
+495500 rows selected
+Adentro: 500
+500 rows committed
+> >
+496000 rows selected
+Adentro: 500
+500 rows committed
+> >
+496500 rows selected
+Adentro: 500
+500 rows committed
+> >
+497000 rows selected
+Adentro: 500
+500 rows committed
+> >
+497500 rows selected
+Adentro: 500
+500 rows committed
+> >
+498000 rows selected
+Adentro: 500
+500 rows committed
+> >
+498500 rows selected
+Adentro: 500
+500 rows committed
+> >
+499000 rows selected
+Adentro: 500
+500 rows committed
+> >
+499500 rows selected
+Adentro: 500
+500 rows committed
+> >
+500000 rows selected
+Adentro: 500
+500 rows committed
+> >
+500500 rows selected
+Adentro: 500
+500 rows committed
+> >
+501000 rows selected
+Adentro: 500
+500 rows committed
+> >
+501500 rows selected
+Adentro: 500
+500 rows committed
+> >
+502000 rows selected
+Adentro: 500
+500 rows committed
+> >
+502500 rows selected
+Adentro: 500
+500 rows committed
+> >
+503000 rows selected
+Adentro: 500
+500 rows committed
+> >
+503500 rows selected
+Adentro: 500
+500 rows committed
+> >
+504000 rows selected
+Adentro: 500
+500 rows committed
+> >
+504500 rows selected
+Adentro: 500
+500 rows committed
+> >
+505000 rows selected
+Adentro: 500
+500 rows committed
+> >
+505500 rows selected
+Adentro: 500
+500 rows committed
+> >
+506000 rows selected
+Adentro: 500
+500 rows committed
+> >
+506500 rows selected
+Adentro: 500
+500 rows committed
+> >
+507000 rows selected
+Adentro: 500
+500 rows committed
+> >
+507500 rows selected
+Adentro: 500
+500 rows committed
+> >
+508000 rows selected
+Adentro: 500
+500 rows committed
+> >
+508500 rows selected
+Adentro: 500
+500 rows committed
+> >
+509000 rows selected
+Adentro: 500
+500 rows committed
+> >
+509500 rows selected
+Adentro: 500
+500 rows committed
+> >
+510000 rows selected
+Adentro: 500
+500 rows committed
+> >
+510500 rows selected
+Adentro: 500
+500 rows committed
+> >
+511000 rows selected
+Adentro: 500
+500 rows committed
+> >
+511500 rows selected
+Adentro: 500
+500 rows committed
+> >
+512000 rows selected
+Adentro: 500
+500 rows committed
+> >
+512500 rows selected
+Adentro: 500
+500 rows committed
+> >
+513000 rows selected
+Adentro: 500
+500 rows committed
+> >
+513500 rows selected
+Adentro: 500
+500 rows committed
+> >
+514000 rows selected
+Adentro: 500
+500 rows committed
+> >
+514500 rows selected
+Adentro: 500
+500 rows committed
+> >
+515000 rows selected
+Adentro: 500
+500 rows committed
+> >
+515500 rows selected
+Adentro: 500
+500 rows committed
+> >
+516000 rows selected
+Adentro: 500
+500 rows committed
+> >
+516500 rows selected
+Adentro: 500
+500 rows committed
+> >
+517000 rows selected
+Adentro: 500
+500 rows committed
+> >
+517500 rows selected
+Adentro: 500
+500 rows committed
+> >
+518000 rows selected
+Adentro: 500
+500 rows committed
+> >
+518500 rows selected
+Adentro: 500
+500 rows committed
+> >
+519000 rows selected
+Adentro: 500
+500 rows committed
+> >
+519500 rows selected
+Adentro: 500
+500 rows committed
+> >
+520000 rows selected
+Adentro: 500
+500 rows committed
+> >
+520500 rows selected
+Adentro: 500
+500 rows committed
+> >
+521000 rows selected
+Adentro: 500
+500 rows committed
+> >
+521500 rows selected
+Adentro: 500
+500 rows committed
+> >
+522000 rows selected
+Adentro: 500
+500 rows committed
+> >
+522500 rows selected
+Adentro: 500
+500 rows committed
+> >
+523000 rows selected
+Adentro: 500
+500 rows committed
+> >
+523500 rows selected
+Adentro: 500
+500 rows committed
+> >
+524000 rows selected
+Adentro: 500
+500 rows committed
+> >
+524500 rows selected
+Adentro: 500
+500 rows committed
+> >
+525000 rows selected
+Adentro: 500
+500 rows committed
+> >
+525500 rows selected
+Adentro: 500
+500 rows committed
+> >
+526000 rows selected
+Adentro: 500
+500 rows committed
+> >
+526500 rows selected
+Adentro: 500
+500 rows committed
+> >
+527000 rows selected
+Adentro: 500
+500 rows committed
+> >
+527500 rows selected
+Adentro: 500
+500 rows committed
+> >
+528000 rows selected
+Adentro: 500
+500 rows committed
+> >
+528500 rows selected
+Adentro: 500
+500 rows committed
+> >
+529000 rows selected
+Adentro: 500
+500 rows committed
+> >
+529500 rows selected
+Adentro: 500
+500 rows committed
+> >
+530000 rows selected
+Adentro: 500
+500 rows committed
+> >
+530500 rows selected
+Adentro: 500
+500 rows committed
+> >
+531000 rows selected
+Adentro: 500
+500 rows committed
+> >
+531500 rows selected
+Adentro: 500
+500 rows committed
+> >
+532000 rows selected
+Adentro: 500
+500 rows committed
+> >
+532500 rows selected
+Adentro: 500
+500 rows committed
+> >
+533000 rows selected
+Adentro: 500
+500 rows committed
+> >
+533500 rows selected
+Adentro: 500
+500 rows committed
+> >
+534000 rows selected
+Adentro: 500
+500 rows committed
+> >
+534500 rows selected
+Adentro: 500
+500 rows committed
+> >
+535000 rows selected
+Adentro: 500
+500 rows committed
+> >
+535500 rows selected
+Adentro: 500
+500 rows committed
+> >
+536000 rows selected
+Adentro: 500
+500 rows committed
+> >
+536500 rows selected
+Adentro: 500
+500 rows committed
+> >
+537000 rows selected
+Adentro: 500
+500 rows committed
+> >
+537500 rows selected
+Adentro: 500
+500 rows committed
+> >
+538000 rows selected
+Adentro: 500
+500 rows committed
+> >
+538500 rows selected
+Adentro: 500
+500 rows committed
+> >
+539000 rows selected
+Adentro: 500
+500 rows committed
+> >
+539500 rows selected
+Adentro: 500
+500 rows committed
+> >
+540000 rows selected
+Adentro: 500
+500 rows committed
+> >
+540500 rows selected
+Adentro: 500
+500 rows committed
+> >
+541000 rows selected
+Adentro: 500
+500 rows committed
+> >
+541500 rows selected
+Adentro: 500
+500 rows committed
+> >
+542000 rows selected
+Adentro: 500
+500 rows committed
+> >
+542500 rows selected
+Adentro: 500
+500 rows committed
+> >
+543000 rows selected
+Adentro: 500
+500 rows committed
+> >
+543500 rows selected
+Adentro: 500
+500 rows committed
+> >
+544000 rows selected
+Adentro: 500
+500 rows committed
+> >
+544500 rows selected
+Adentro: 500
+500 rows committed
+> >
+545000 rows selected
+Adentro: 500
+500 rows committed
+> >
+545500 rows selected
+Adentro: 500
+500 rows committed
+> >
+546000 rows selected
+Adentro: 500
+500 rows committed
+> >
+546500 rows selected
+Adentro: 500
+500 rows committed
+> >
+547000 rows selected
+Adentro: 500
+500 rows committed
+> >
+547500 rows selected
+Adentro: 500
+500 rows committed
+> >
+548000 rows selected
+Adentro: 500
+500 rows committed
+> >
+548500 rows selected
+Adentro: 500
+500 rows committed
+> >
+549000 rows selected
+Adentro: 500
+500 rows committed
+> >
+549500 rows selected
+Adentro: 500
+500 rows committed
+> >
+550000 rows selected
+Adentro: 500
+500 rows committed
+> >
+550500 rows selected
+Adentro: 500
+500 rows committed
+> >
+551000 rows selected
+Adentro: 500
+500 rows committed
+> >
+551500 rows selected
+Adentro: 500
+500 rows committed
+> >
+552000 rows selected
+Adentro: 500
+500 rows committed
+> >
+552500 rows selected
+Adentro: 500
+500 rows committed
+> >
+553000 rows selected
+Adentro: 500
+500 rows committed
+> >
+553500 rows selected
+Adentro: 500
+500 rows committed
+> >
+554000 rows selected
+Adentro: 500
+500 rows committed
+> >
+554500 rows selected
+Adentro: 500
+500 rows committed
+> >
+555000 rows selected
+Adentro: 500
+500 rows committed
+> >
+555500 rows selected
+Adentro: 500
+500 rows committed
+> >
+556000 rows selected
+Adentro: 500
+500 rows committed
+> >
+556500 rows selected
+Adentro: 500
+500 rows committed
+> >
+557000 rows selected
+Adentro: 500
+500 rows committed
+> >
+557500 rows selected
+Adentro: 500
+500 rows committed
+> >
+558000 rows selected
+Adentro: 500
+500 rows committed
+> >
+558500 rows selected
+Adentro: 500
+500 rows committed
+> >
+559000 rows selected
+Adentro: 500
+500 rows committed
+> >
+559500 rows selected
+Adentro: 500
+500 rows committed
+> >
+560000 rows selected
+Adentro: 500
+500 rows committed
+> >
+560500 rows selected
+Adentro: 500
+500 rows committed
+> >
+561000 rows selected
+Adentro: 500
+500 rows committed
+> >
+561500 rows selected
+Adentro: 500
+500 rows committed
+> >
+562000 rows selected
+Adentro: 500
+500 rows committed
+> >
+562500 rows selected
+Adentro: 500
+500 rows committed
+> >
+563000 rows selected
+Adentro: 500
+500 rows committed
+> >
+563500 rows selected
+Adentro: 500
+500 rows committed
+> >
+564000 rows selected
+Adentro: 500
+500 rows committed
+> >
+564500 rows selected
+Adentro: 500
+500 rows committed
+> >
+565000 rows selected
+Adentro: 500
+500 rows committed
+> >
+565500 rows selected
+Adentro: 500
+500 rows committed
+> >
+566000 rows selected
+Adentro: 500
+500 rows committed
+> >
+566500 rows selected
+Adentro: 500
+500 rows committed
+> >
+567000 rows selected
+Adentro: 500
+500 rows committed
+> >
+567500 rows selected
+Adentro: 500
+500 rows committed
+> >
+568000 rows selected
+Adentro: 500
+500 rows committed
+> >
+568500 rows selected
+Adentro: 500
+500 rows committed
+> >
+569000 rows selected
+Adentro: 500
+500 rows committed
+> >
+569500 rows selected
+Adentro: 500
+500 rows committed
+> >
+570000 rows selected
+Adentro: 500
+500 rows committed
+> >
+570500 rows selected
+Adentro: 500
+500 rows committed
+> >
+571000 rows selected
+Adentro: 500
+500 rows committed
+> >
+571500 rows selected
+Adentro: 500
+500 rows committed
+> >
+572000 rows selected
+Adentro: 500
+500 rows committed
+> >
+572500 rows selected
+Adentro: 500
+500 rows committed
+> >
+573000 rows selected
+Adentro: 500
+500 rows committed
+> >
+573500 rows selected
+Adentro: 500
+500 rows committed
+> >
+574000 rows selected
+Adentro: 500
+500 rows committed
+> >
+574500 rows selected
+Adentro: 500
+500 rows committed
+> >
+575000 rows selected
+Adentro: 500
+500 rows committed
+> >
+575500 rows selected
+Adentro: 500
+500 rows committed
+> >
+576000 rows selected
+Adentro: 500
+500 rows committed
+> >
+576500 rows selected
+Adentro: 500
+500 rows committed
+> >
+577000 rows selected
+Adentro: 500
+500 rows committed
+> >
+577500 rows selected
+Adentro: 500
+500 rows committed
+> >
+578000 rows selected
+Adentro: 500
+500 rows committed
+> >
+578500 rows selected
+Adentro: 500
+500 rows committed
+> >
+579000 rows selected
+Adentro: 500
+500 rows committed
+> >
+579500 rows selected
+Adentro: 500
+500 rows committed
+> >
+580000 rows selected
+Adentro: 500
+500 rows committed
+> >
+580500 rows selected
+Adentro: 500
+500 rows committed
+> >
+581000 rows selected
+Adentro: 500
+500 rows committed
+> >
+581500 rows selected
+Adentro: 500
+500 rows committed
+> >
+582000 rows selected
+Adentro: 500
+500 rows committed
+> >
+582500 rows selected
+Adentro: 500
+500 rows committed
+> >
+583000 rows selected
+Adentro: 500
+500 rows committed
+> >
+583500 rows selected
+Adentro: 500
+500 rows committed
+> >
+584000 rows selected
+Adentro: 500
+500 rows committed
+> >
+584500 rows selected
+Adentro: 500
+500 rows committed
+> >
+585000 rows selected
+Adentro: 500
+500 rows committed
+> >
+585500 rows selected
+Adentro: 500
+500 rows committed
+> >
+586000 rows selected
+Adentro: 500
+500 rows committed
+> >
+586500 rows selected
+Adentro: 500
+500 rows committed
+> >
+587000 rows selected
+Adentro: 500
+500 rows committed
+> >
+587500 rows selected
+Adentro: 500
+500 rows committed
+> >
+588000 rows selected
+Adentro: 500
+500 rows committed
+> >
+588500 rows selected
+Adentro: 500
+500 rows committed
+> >
+589000 rows selected
+Adentro: 500
+500 rows committed
+> >
+589500 rows selected
+Adentro: 500
+500 rows committed
+> >
+590000 rows selected
+Adentro: 500
+500 rows committed
+> >
+590500 rows selected
+Adentro: 500
+500 rows committed
+> >
+591000 rows selected
+Adentro: 500
+500 rows committed
+> >
+591500 rows selected
+Adentro: 500
+500 rows committed
+> >
+592000 rows selected
+Adentro: 500
+500 rows committed
+> >
+592500 rows selected
+Adentro: 500
+500 rows committed
+> >
+593000 rows selected
+Adentro: 500
+500 rows committed
+> >
+593500 rows selected
+Adentro: 500
+500 rows committed
+> >
+594000 rows selected
+Adentro: 500
+500 rows committed
+> >
+594500 rows selected
+Adentro: 500
+500 rows committed
+> >
+595000 rows selected
+Adentro: 500
+500 rows committed
+> >
+595500 rows selected
+Adentro: 500
+500 rows committed
+> >
+596000 rows selected
+Adentro: 500
+500 rows committed
+> >
+596500 rows selected
+Adentro: 500
+500 rows committed
+> >
+597000 rows selected
+Adentro: 500
+500 rows committed
+> >
+597500 rows selected
+Adentro: 500
+500 rows committed
+> >
+598000 rows selected
+Adentro: 500
+500 rows committed
+> >
+598500 rows selected
+Adentro: 500
+500 rows committed
+> >
+599000 rows selected
+Adentro: 500
+500 rows committed
+> >
+599500 rows selected
+Adentro: 500
+500 rows committed
+> >
+600000 rows selected
+Adentro: 500
+500 rows committed
+> >
+600500 rows selected
+Adentro: 500
+500 rows committed
+> >
+601000 rows selected
+Adentro: 500
+500 rows committed
+> >
+601500 rows selected
+Adentro: 500
+500 rows committed
+> >
+602000 rows selected
+Adentro: 500
+500 rows committed
+> >
+602500 rows selected
+Adentro: 500
+500 rows committed
+> >
+603000 rows selected
+Adentro: 500
+500 rows committed
+> >
+603500 rows selected
+Adentro: 500
+500 rows committed
+> >
+604000 rows selected
+Adentro: 500
+500 rows committed
+> >
+604500 rows selected
+Adentro: 500
+500 rows committed
+> >
+605000 rows selected
+Adentro: 500
+500 rows committed
+> >
+605500 rows selected
+Adentro: 500
+500 rows committed
+> >
+606000 rows selected
+Adentro: 500
+500 rows committed
+> >
+606500 rows selected
+Adentro: 500
+500 rows committed
+> >
+607000 rows selected
+Adentro: 500
+500 rows committed
+> >
+607500 rows selected
+Adentro: 500
+500 rows committed
+> >
+608000 rows selected
+Adentro: 500
+500 rows committed
+> >
+608500 rows selected
+Adentro: 500
+500 rows committed
+> >
+609000 rows selected
+Adentro: 500
+500 rows committed
+> >
+609500 rows selected
+Adentro: 500
+500 rows committed
+> >
+610000 rows selected
+Adentro: 500
+500 rows committed
+> >
+610500 rows selected
+Adentro: 500
+500 rows committed
+> >
+611000 rows selected
+Adentro: 500
+500 rows committed
+> >
+611500 rows selected
+Adentro: 500
+500 rows committed
+> >
+612000 rows selected
+Adentro: 500
+500 rows committed
+> >
+612500 rows selected
+Adentro: 500
+500 rows committed
+> >
+613000 rows selected
+Adentro: 500
+500 rows committed
+> >
+613500 rows selected
+Adentro: 500
+500 rows committed
+> >
+614000 rows selected
+Adentro: 500
+500 rows committed
+> >
+614500 rows selected
+Adentro: 500
+500 rows committed
+> >
+615000 rows selected
+Adentro: 500
+500 rows committed
+> >
+615500 rows selected
+Adentro: 500
+500 rows committed
+> >
+616000 rows selected
+Adentro: 500
+500 rows committed
+> >
+616500 rows selected
+Adentro: 500
+500 rows committed
+> >
+617000 rows selected
+Adentro: 500
+500 rows committed
+> >
+617500 rows selected
+Adentro: 500
+500 rows committed
+> >
+618000 rows selected
+Adentro: 500
+500 rows committed
+> >
+618500 rows selected
+Adentro: 500
+500 rows committed
+> >
+619000 rows selected
+Adentro: 500
+500 rows committed
+> >
+619500 rows selected
+Adentro: 500
+500 rows committed
+> >
+620000 rows selected
+Adentro: 500
+500 rows committed
+> >
+620500 rows selected
+Adentro: 500
+500 rows committed
+> >
+621000 rows selected
+Adentro: 500
+500 rows committed
+> >
+621500 rows selected
+Adentro: 500
+500 rows committed
+> >
+622000 rows selected
+Adentro: 500
+500 rows committed
+> >
+622500 rows selected
+Adentro: 500
+500 rows committed
+> >
+623000 rows selected
+Adentro: 500
+500 rows committed
+> >
+623500 rows selected
+Adentro: 500
+500 rows committed
+> >
+624000 rows selected
+Adentro: 500
+500 rows committed
+> >
+624500 rows selected
+Adentro: 500
+500 rows committed
+> >
+625000 rows selected
+Adentro: 500
+500 rows committed
+> >
+625500 rows selected
+Adentro: 500
+500 rows committed
+> >
+626000 rows selected
+Adentro: 500
+500 rows committed
+> >
+626500 rows selected
+Adentro: 500
+500 rows committed
+> >
+627000 rows selected
+Adentro: 500
+500 rows committed
+> >
+627500 rows selected
+Adentro: 500
+500 rows committed
+> >
+628000 rows selected
+Adentro: 500
+500 rows committed
+> >
+628500 rows selected
+Adentro: 500
+500 rows committed
+> >
+629000 rows selected
+Adentro: 500
+500 rows committed
+> >
+629500 rows selected
+Adentro: 500
+500 rows committed
+> >
+630000 rows selected
+Adentro: 500
+500 rows committed
+> >
+630500 rows selected
+Adentro: 500
+500 rows committed
+> >
+631000 rows selected
+Adentro: 500
+500 rows committed
+> >
+631500 rows selected
+Adentro: 500
+500 rows committed
+> >
+632000 rows selected
+Adentro: 500
+500 rows committed
+> >
+632500 rows selected
+Adentro: 500
+500 rows committed
+> >
+633000 rows selected
+Adentro: 500
+500 rows committed
+> >
+633500 rows selected
+Adentro: 500
+500 rows committed
+> >
+634000 rows selected
+Adentro: 500
+500 rows committed
+> >
+634500 rows selected
+Adentro: 500
+500 rows committed
+> >
+635000 rows selected
+Adentro: 500
+500 rows committed
+> >
+635500 rows selected
+Adentro: 500
+500 rows committed
+> >
+636000 rows selected
+Adentro: 500
+500 rows committed
+> >
+636500 rows selected
+Adentro: 500
+500 rows committed
+> >
+637000 rows selected
+Adentro: 500
+500 rows committed
+> >
+637500 rows selected
+Adentro: 500
+500 rows committed
+> >
+638000 rows selected
+Adentro: 500
+500 rows committed
+> >
+638500 rows selected
+Adentro: 500
+500 rows committed
+> >
+639000 rows selected
+Adentro: 500
+500 rows committed
+> >
+639500 rows selected
+Adentro: 500
+500 rows committed
+> >
+640000 rows selected
+Adentro: 500
+500 rows committed
+> >
+640500 rows selected
+Adentro: 500
+500 rows committed
+> >
+641000 rows selected
+Adentro: 500
+500 rows committed
+> >
+641500 rows selected
+Adentro: 500
+500 rows committed
+> >
+642000 rows selected
+Adentro: 500
+500 rows committed
+> >
+642500 rows selected
+Adentro: 500
+500 rows committed
+> >
+643000 rows selected
+Adentro: 500
+500 rows committed
+> >
+643500 rows selected
+Adentro: 500
+500 rows committed
+> >
+644000 rows selected
+Adentro: 500
+500 rows committed
+> >
+644500 rows selected
+Adentro: 500
+500 rows committed
+> >
+645000 rows selected
+Adentro: 500
+500 rows committed
+> >
+645500 rows selected
+Adentro: 500
+500 rows committed
+> >
+646000 rows selected
+Adentro: 500
+500 rows committed
+> >
+646500 rows selected
+Adentro: 500
+500 rows committed
+> >
+647000 rows selected
+Adentro: 500
+500 rows committed
+> >
+647500 rows selected
+Adentro: 500
+500 rows committed
+> >
+648000 rows selected
+Adentro: 500
+500 rows committed
+> >
+648500 rows selected
+Adentro: 500
+500 rows committed
+> >
+649000 rows selected
+Adentro: 500
+500 rows committed
+> >
+649500 rows selected
+Adentro: 500
+500 rows committed
+> >
+650000 rows selected
+Adentro: 500
+500 rows committed
+> >
+650500 rows selected
+Adentro: 500
+500 rows committed
+> >
+651000 rows selected
+Adentro: 500
+500 rows committed
+> >
+651500 rows selected
+Adentro: 500
+500 rows committed
+> >
+652000 rows selected
+Adentro: 500
+500 rows committed
+> >
+652500 rows selected
+Adentro: 500
+500 rows committed
+> >
+653000 rows selected
+Adentro: 500
+500 rows committed
+> >
+653500 rows selected
+Adentro: 500
+500 rows committed
+> >
+654000 rows selected
+Adentro: 500
+500 rows committed
+> >
+654500 rows selected
+Adentro: 500
+500 rows committed
+> >
+655000 rows selected
+Adentro: 500
+500 rows committed
+> >
+655500 rows selected
+Adentro: 500
+500 rows committed
+> >
+656000 rows selected
+Adentro: 500
+500 rows committed
+> >
+656500 rows selected
+Adentro: 500
+500 rows committed
+> >
+657000 rows selected
+Adentro: 500
+500 rows committed
+> >
+657500 rows selected
+Adentro: 500
+500 rows committed
+> >
+658000 rows selected
+Adentro: 500
+500 rows committed
+> >
+658500 rows selected
+Adentro: 500
+500 rows committed
+> >
+659000 rows selected
+Adentro: 500
+500 rows committed
+> >
+659500 rows selected
+Adentro: 500
+500 rows committed
+> >
+660000 rows selected
+Adentro: 500
+500 rows committed
+> >
+660500 rows selected
+Adentro: 500
+500 rows committed
+> >
+661000 rows selected
+Adentro: 500
+500 rows committed
+> >
+661500 rows selected
+Adentro: 500
+500 rows committed
+> >
+662000 rows selected
+Adentro: 500
+500 rows committed
+> >
+662500 rows selected
+Adentro: 500
+500 rows committed
+> >
+663000 rows selected
+Adentro: 500
+500 rows committed
+> >
+663500 rows selected
+Adentro: 500
+500 rows committed
+> >
+664000 rows selected
+Adentro: 500
+500 rows committed
+> >
+664500 rows selected
+Adentro: 500
+500 rows committed
+> >
+665000 rows selected
+Adentro: 500
+500 rows committed
+> >
+665500 rows selected
+Adentro: 500
+500 rows committed
+> >
+666000 rows selected
+Adentro: 500
+500 rows committed
+> >
+666500 rows selected
+Adentro: 500
+500 rows committed
+> >
+667000 rows selected
+Adentro: 500
+500 rows committed
+> >
+667500 rows selected
+Adentro: 500
+500 rows committed
+> >
+668000 rows selected
+Adentro: 500
+500 rows committed
+> >
+668500 rows selected
+Adentro: 500
+500 rows committed
+> >
+669000 rows selected
+Adentro: 500
+500 rows committed
+> >
+669500 rows selected
+Adentro: 500
+500 rows committed
+> >
+670000 rows selected
+Adentro: 500
+500 rows committed
+> >
+670500 rows selected
+Adentro: 500
+500 rows committed
+> >
+671000 rows selected
+Adentro: 500
+500 rows committed
+> >
+671500 rows selected
+Adentro: 500
+500 rows committed
+> >
+672000 rows selected
+Adentro: 500
+500 rows committed
+> >
+672500 rows selected
+Adentro: 500
+500 rows committed
+> >
+673000 rows selected
+Adentro: 500
+500 rows committed
+> >
+673500 rows selected
+Adentro: 500
+500 rows committed
+> >
+674000 rows selected
+Adentro: 500
+500 rows committed
+> >
+674500 rows selected
+Adentro: 500
+500 rows committed
+> >
+675000 rows selected
+Adentro: 500
+500 rows committed
+> >
+675500 rows selected
+Adentro: 500
+500 rows committed
+> >
+676000 rows selected
+Adentro: 500
+500 rows committed
+> >
+676500 rows selected
+Adentro: 500
+500 rows committed
+> >
+677000 rows selected
+Adentro: 500
+500 rows committed
+> >
+677500 rows selected
+Adentro: 500
+500 rows committed
+> >
+678000 rows selected
+Adentro: 500
+500 rows committed
+> >
+678500 rows selected
+Adentro: 500
+500 rows committed
+> >
+679000 rows selected
+Adentro: 500
+500 rows committed
+> >
+679500 rows selected
+Adentro: 500
+500 rows committed
+> >
+680000 rows selected
+Adentro: 500
+500 rows committed
+> >
+680500 rows selected
+Adentro: 500
+500 rows committed
+> >
+681000 rows selected
+Adentro: 500
+500 rows committed
+> >
+681500 rows selected
+Adentro: 500
+500 rows committed
+> >
+682000 rows selected
+Adentro: 500
+500 rows committed
+> >
+682500 rows selected
+Adentro: 500
+500 rows committed
+> >
+683000 rows selected
+Adentro: 500
+500 rows committed
+> >
+683500 rows selected
+Adentro: 500
+500 rows committed
+> >
+684000 rows selected
+Adentro: 500
+500 rows committed
+> >
+684500 rows selected
+Adentro: 500
+500 rows committed
+> >
+685000 rows selected
+Adentro: 500
+500 rows committed
+> >
+685500 rows selected
+Adentro: 500
+500 rows committed
+> >
+686000 rows selected
+Adentro: 500
+500 rows committed
+> >
+686500 rows selected
+Adentro: 500
+500 rows committed
+> >
+687000 rows selected
+Adentro: 500
+500 rows committed
+> >
+687500 rows selected
+Adentro: 500
+500 rows committed
+> >
+688000 rows selected
+Adentro: 500
+500 rows committed
+> >
+688500 rows selected
+Adentro: 500
+500 rows committed
+> >
+689000 rows selected
+Adentro: 500
+500 rows committed
+> >
+689500 rows selected
+Adentro: 500
+500 rows committed
+> >
+690000 rows selected
+Adentro: 500
+500 rows committed
+> >
+690500 rows selected
+Adentro: 500
+500 rows committed
+> >
+691000 rows selected
+Adentro: 500
+500 rows committed
+> >
+691500 rows selected
+Adentro: 500
+500 rows committed
+> >
+692000 rows selected
+Adentro: 500
+500 rows committed
+> >
+692500 rows selected
+Adentro: 500
+500 rows committed
+> >
+693000 rows selected
+Adentro: 500
+500 rows committed
+> >
+693500 rows selected
+Adentro: 500
+500 rows committed
+> >
+694000 rows selected
+Adentro: 500
+500 rows committed
+> >
+694500 rows selected
+Adentro: 500
+500 rows committed
+> >
+695000 rows selected
+Adentro: 500
+500 rows committed
+> >
+695500 rows selected
+Adentro: 500
+500 rows committed
+> >
+696000 rows selected
+Adentro: 500
+500 rows committed
+> >
+696500 rows selected
+Adentro: 500
+500 rows committed
+> >
+697000 rows selected
+Adentro: 500
+500 rows committed
+> >
+697500 rows selected
+Adentro: 500
+500 rows committed
+> >
+698000 rows selected
+Adentro: 500
+500 rows committed
+> >
+698500 rows selected
+Adentro: 500
+500 rows committed
+> >
+699000 rows selected
+Adentro: 500
+500 rows committed
+> >
+699500 rows selected
+Adentro: 500
+500 rows committed
+> >
+700000 rows selected
+Adentro: 500
+500 rows committed
+> >
+700500 rows selected
+Adentro: 500
+500 rows committed
+> >
+701000 rows selected
+Adentro: 500
+500 rows committed
+> >
+701500 rows selected
+Adentro: 500
+500 rows committed
+> >
+702000 rows selected
+Adentro: 500
+500 rows committed
+> >
+702500 rows selected
+Adentro: 500
+500 rows committed
+> >
+703000 rows selected
+Adentro: 500
+500 rows committed
+> >
+703500 rows selected
+Adentro: 500
+500 rows committed
+> >
+704000 rows selected
+Adentro: 500
+500 rows committed
+> >
+704500 rows selected
+Adentro: 500
+500 rows committed
+> >
+705000 rows selected
+Adentro: 500
+500 rows committed
+> >
+705500 rows selected
+Adentro: 500
+500 rows committed
+> >
+706000 rows selected
+Adentro: 500
+500 rows committed
+> >
+706500 rows selected
+Adentro: 500
+500 rows committed
+> >
+707000 rows selected
+Adentro: 500
+500 rows committed
+> >
+707500 rows selected
+Adentro: 500
+500 rows committed
+> >
+708000 rows selected
+Adentro: 500
+500 rows committed
+> >
+708500 rows selected
+Adentro: 500
+500 rows committed
+> >
+709000 rows selected
+Adentro: 500
+500 rows committed
+> >
+709500 rows selected
+Adentro: 500
+500 rows committed
+> >
+710000 rows selected
+Adentro: 500
+500 rows committed
+> >
+710500 rows selected
+Adentro: 500
+500 rows committed
+> >
+711000 rows selected
+Adentro: 500
+500 rows committed
+> >
+711500 rows selected
+Adentro: 500
+500 rows committed
+> >
+712000 rows selected
+Adentro: 500
+500 rows committed
+> >
+712500 rows selected
+Adentro: 500
+500 rows committed
+> >
+713000 rows selected
+Adentro: 500
+500 rows committed
+> >
+713500 rows selected
+Adentro: 500
+500 rows committed
+> >
+714000 rows selected
+Adentro: 500
+500 rows committed
+> >
+714500 rows selected
+Adentro: 500
+500 rows committed
+> >
+715000 rows selected
+Adentro: 500
+500 rows committed
+> >
+715500 rows selected
+Adentro: 500
+500 rows committed
+> >
+716000 rows selected
+Adentro: 500
+500 rows committed
+> >
+716500 rows selected
+Adentro: 500
+500 rows committed
+> >
+717000 rows selected
+Adentro: 500
+500 rows committed
+> >
+717500 rows selected
+Adentro: 500
+500 rows committed
+> >
+718000 rows selected
+Adentro: 500
+500 rows committed
+> >
+718500 rows selected
+Adentro: 500
+500 rows committed
+> >
+719000 rows selected
+Adentro: 500
+500 rows committed
+> >
+719500 rows selected
+Adentro: 500
+500 rows committed
+> >
+720000 rows selected
+Adentro: 500
+500 rows committed
+> >
+720500 rows selected
+Adentro: 500
+500 rows committed
+> >
+721000 rows selected
+Adentro: 500
+500 rows committed
+> >
+721500 rows selected
+Adentro: 500
+500 rows committed
+> >
+722000 rows selected
+Adentro: 500
+500 rows committed
+> >
+722500 rows selected
+Adentro: 500
+500 rows committed
+> >
+723000 rows selected
+Adentro: 500
+500 rows committed
+> >
+723500 rows selected
+Adentro: 500
+500 rows committed
+> >
+724000 rows selected
+Adentro: 500
+500 rows committed
+> >
+724500 rows selected
+Adentro: 500
+500 rows committed
+> >
+725000 rows selected
+Adentro: 500
+500 rows committed
+> >
+725500 rows selected
+Adentro: 500
+500 rows committed
+> >
+726000 rows selected
+Adentro: 500
+500 rows committed
+> >
+726500 rows selected
+Adentro: 500
+500 rows committed
+> >
+727000 rows selected
+Adentro: 500
+500 rows committed
+> >
+727500 rows selected
+Adentro: 500
+500 rows committed
+> >
+728000 rows selected
+Adentro: 500
+500 rows committed
+> >
+728500 rows selected
+Adentro: 500
+500 rows committed
+> >
+729000 rows selected
+Adentro: 500
+500 rows committed
+> >
+729500 rows selected
+Adentro: 500
+500 rows committed
+> >
+730000 rows selected
+Adentro: 500
+500 rows committed
+> >
+730500 rows selected
+Adentro: 500
+500 rows committed
+> >
+731000 rows selected
+Adentro: 500
+500 rows committed
+> >
+731500 rows selected
+Adentro: 500
+500 rows committed
+> >
+732000 rows selected
+Adentro: 500
+500 rows committed
+> >
+732500 rows selected
+Adentro: 500
+500 rows committed
+> >
+733000 rows selected
+Adentro: 500
+500 rows committed
+> >
+733500 rows selected
+Adentro: 500
+500 rows committed
+> >
+734000 rows selected
+Adentro: 500
+500 rows committed
+> >
+734500 rows selected
+Adentro: 500
+500 rows committed
+> >
+735000 rows selected
+Adentro: 500
+500 rows committed
+> >
+735500 rows selected
+Adentro: 500
+500 rows committed
+> >
+736000 rows selected
+Adentro: 500
+500 rows committed
+> >
+736500 rows selected
+Adentro: 500
+500 rows committed
+> >
+737000 rows selected
+Adentro: 500
+500 rows committed
+> >
+737500 rows selected
+Adentro: 500
+500 rows committed
+> >
+738000 rows selected
+Adentro: 500
+500 rows committed
+> >
+738500 rows selected
+Adentro: 500
+500 rows committed
+> >
+739000 rows selected
+Adentro: 500
+500 rows committed
+> >
+739500 rows selected
+Adentro: 500
+500 rows committed
+> >
+740000 rows selected
+Adentro: 500
+500 rows committed
+> >
+740500 rows selected
+Adentro: 500
+500 rows committed
+> >
+741000 rows selected
+Adentro: 500
+500 rows committed
+> >
+741500 rows selected
+Adentro: 500
+500 rows committed
+> >
+742000 rows selected
+Adentro: 500
+500 rows committed
+> >
+742500 rows selected
+Adentro: 500
+500 rows committed
+> >
+743000 rows selected
+Adentro: 500
+500 rows committed
+> >
+743500 rows selected
+Adentro: 500
+500 rows committed
+> >
+744000 rows selected
+Adentro: 500
+500 rows committed
+> >
+744500 rows selected
+Adentro: 500
+500 rows committed
+> >
+745000 rows selected
+Adentro: 500
+500 rows committed
+> >
+745500 rows selected
+Adentro: 500
+500 rows committed
+> >
+746000 rows selected
+Adentro: 500
+500 rows committed
+> >
+746500 rows selected
+Adentro: 500
+500 rows committed
+> >
+747000 rows selected
+Adentro: 500
+500 rows committed
+> >
+747500 rows selected
+Adentro: 500
+500 rows committed
+> >
+748000 rows selected
+Adentro: 500
+500 rows committed
+> >
+748500 rows selected
+Adentro: 500
+500 rows committed
+> >
+749000 rows selected
+Adentro: 500
+500 rows committed
+> >
+749500 rows selected
+Adentro: 500
+500 rows committed
+> >
+750000 rows selected
+Adentro: 500
+500 rows committed
+> >
+750500 rows selected
+Adentro: 500
+500 rows committed
+> >
+751000 rows selected
+Adentro: 500
+500 rows committed
+> >
+751500 rows selected
+Adentro: 500
+500 rows committed
+> >
+752000 rows selected
+Adentro: 500
+500 rows committed
+> >
+752500 rows selected
+Adentro: 500
+500 rows committed
+> >
+753000 rows selected
+Adentro: 500
+500 rows committed
+> >
+753500 rows selected
+Adentro: 500
+500 rows committed
+> >
+754000 rows selected
+Adentro: 500
+500 rows committed
+> >
+754500 rows selected
+Adentro: 500
+500 rows committed
+> >
+755000 rows selected
+Adentro: 500
+500 rows committed
+> >
+755500 rows selected
+Adentro: 500
+500 rows committed
+> >
+756000 rows selected
+Adentro: 500
+500 rows committed
+> >
+756500 rows selected
+Adentro: 500
+500 rows committed
+> >
+757000 rows selected
+Adentro: 500
+500 rows committed
+> >
+757500 rows selected
+Adentro: 500
+500 rows committed
+> >
+758000 rows selected
+Adentro: 500
+500 rows committed
+> >
+758500 rows selected
+Adentro: 500
+500 rows committed
+> >
+759000 rows selected
+Adentro: 500
+500 rows committed
+> >
+759500 rows selected
+Adentro: 500
+500 rows committed
+> >
+760000 rows selected
+Adentro: 500
+500 rows committed
+> >
+760500 rows selected
+Adentro: 500
+500 rows committed
+> >
+761000 rows selected
+Adentro: 500
+500 rows committed
+> >
+761500 rows selected
+Adentro: 500
+500 rows committed
+> >
+762000 rows selected
+Adentro: 500
+500 rows committed
+> >
+762500 rows selected
+Adentro: 500
+500 rows committed
+> >
+763000 rows selected
+Adentro: 500
+500 rows committed
+> >
+763500 rows selected
+Adentro: 500
+500 rows committed
+> >
+764000 rows selected
+Adentro: 500
+500 rows committed
+> >
+764500 rows selected
+Adentro: 500
+500 rows committed
+> >
+765000 rows selected
+Adentro: 500
+500 rows committed
+> >
+765500 rows selected
+Adentro: 500
+500 rows committed
+> >
+766000 rows selected
+Adentro: 500
+500 rows committed
+> >
+766500 rows selected
+Adentro: 500
+500 rows committed
+> >
+767000 rows selected
+Adentro: 500
+500 rows committed
+> >
+767500 rows selected
+Adentro: 500
+500 rows committed
+> >
+768000 rows selected
+Adentro: 500
+500 rows committed
+> >
+768500 rows selected
+Adentro: 500
+500 rows committed
+> >
+769000 rows selected
+Adentro: 500
+500 rows committed
+> >
+769500 rows selected
+Adentro: 500
+500 rows committed
+> >
+770000 rows selected
+Adentro: 500
+500 rows committed
+> >
+770500 rows selected
+Adentro: 500
+500 rows committed
+> >
+771000 rows selected
+Adentro: 500
+500 rows committed
+> >
+771500 rows selected
+Adentro: 500
+500 rows committed
+> >
+772000 rows selected
+Adentro: 500
+500 rows committed
+> >
+772500 rows selected
+Adentro: 500
+500 rows committed
+> >
+773000 rows selected
+Adentro: 500
+500 rows committed
+> >
+773500 rows selected
+Adentro: 500
+500 rows committed
+> >
+774000 rows selected
+Adentro: 500
+500 rows committed
+> >
+774500 rows selected
+Adentro: 500
+500 rows committed
+> >
+775000 rows selected
+Adentro: 500
+500 rows committed
+> >
+775500 rows selected
+Adentro: 500
+500 rows committed
+> >
+776000 rows selected
+Adentro: 500
+500 rows committed
+> >
+776500 rows selected
+Adentro: 500
+500 rows committed
+> >
+777000 rows selected
+Adentro: 500
+500 rows committed
+> >
+777500 rows selected
+Adentro: 500
+500 rows committed
+> >
+778000 rows selected
+Adentro: 500
+500 rows committed
+> >
+778500 rows selected
+Adentro: 500
+500 rows committed
+> >
+779000 rows selected
+Adentro: 500
+500 rows committed
+> >
+779500 rows selected
+Adentro: 500
+500 rows committed
+> >
+780000 rows selected
+Adentro: 500
+500 rows committed
+> >
+780500 rows selected
+Adentro: 500
+500 rows committed
+> >
+781000 rows selected
+Adentro: 500
+500 rows committed
+> >
+781500 rows selected
+Adentro: 500
+500 rows committed
+> >
+782000 rows selected
+Adentro: 500
+500 rows committed
+> >
+782500 rows selected
+Adentro: 500
+500 rows committed
+> >
+783000 rows selected
+Adentro: 500
+500 rows committed
+> >
+783500 rows selected
+Adentro: 500
+500 rows committed
+> >
+784000 rows selected
+Adentro: 500
+500 rows committed
+> >
+784500 rows selected
+Adentro: 500
+500 rows committed
+> >
+785000 rows selected
+Adentro: 500
+500 rows committed
+> >
+785500 rows selected
+Adentro: 500
+500 rows committed
+> >
+786000 rows selected
+Adentro: 500
+500 rows committed
+> >
+786500 rows selected
+Adentro: 500
+500 rows committed
+> >
+787000 rows selected
+Adentro: 500
+500 rows committed
+> >
+787500 rows selected
+Adentro: 500
+500 rows committed
+> >
+788000 rows selected
+Adentro: 500
+500 rows committed
+> >
+788500 rows selected
+Adentro: 500
+500 rows committed
+> >
+789000 rows selected
+Adentro: 500
+500 rows committed
+> >
+789500 rows selected
+Adentro: 500
+500 rows committed
+> >
+790000 rows selected
+Adentro: 500
+500 rows committed
+> >
+790500 rows selected
+Adentro: 500
+500 rows committed
+> >
+791000 rows selected
+Adentro: 500
+500 rows committed
+> >
+791500 rows selected
+Adentro: 500
+500 rows committed
+> >
+792000 rows selected
+Adentro: 500
+500 rows committed
+> >
+792500 rows selected
+Adentro: 500
+500 rows committed
+> >
+793000 rows selected
+Adentro: 500
+500 rows committed
+> >
+793500 rows selected
+Adentro: 500
+500 rows committed
+> >
+794000 rows selected
+Adentro: 500
+500 rows committed
+> >
+794500 rows selected
+Adentro: 500
+500 rows committed
+> >
+795000 rows selected
+Adentro: 500
+500 rows committed
+> >
+795500 rows selected
+Adentro: 500
+500 rows committed
+> >
+796000 rows selected
+Adentro: 500
+500 rows committed
+> >
+796500 rows selected
+Adentro: 500
+500 rows committed
+> >
+797000 rows selected
+Adentro: 500
+500 rows committed
+> >
+797500 rows selected
+Adentro: 500
+500 rows committed
+> >
+798000 rows selected
+Adentro: 500
+500 rows committed
+> >
+798500 rows selected
+Adentro: 500
+500 rows committed
+> >
+799000 rows selected
+Adentro: 500
+500 rows committed
+> >
+799500 rows selected
+Adentro: 500
+500 rows committed
+> >
+800000 rows selected
+Adentro: 500
+500 rows committed
+> >
+800500 rows selected
+Adentro: 500
+500 rows committed
+> >
+801000 rows selected
+Adentro: 500
+500 rows committed
+> >
+801500 rows selected
+Adentro: 500
+500 rows committed
+> >
+802000 rows selected
+Adentro: 500
+500 rows committed
+> >
+802500 rows selected
+Adentro: 500
+500 rows committed
+> >
+803000 rows selected
+Adentro: 500
+500 rows committed
+> >
+803500 rows selected
+Adentro: 500
+500 rows committed
+> >
+804000 rows selected
+Adentro: 500
+500 rows committed
+> >
+804500 rows selected
+Adentro: 500
+500 rows committed
+> >
+805000 rows selected
+Adentro: 500
+500 rows committed
+> >
+805500 rows selected
+Adentro: 500
+500 rows committed
+> >
+806000 rows selected
+Adentro: 500
+500 rows committed
+> >
+806500 rows selected
+Adentro: 500
+500 rows committed
+> >
+807000 rows selected
+Adentro: 500
+500 rows committed
+> >
+807500 rows selected
+Adentro: 500
+500 rows committed
+> >
+808000 rows selected
+Adentro: 500
+500 rows committed
+> >
+808500 rows selected
+Adentro: 500
+500 rows committed
+> >
+809000 rows selected
+Adentro: 500
+500 rows committed
+> >
+809500 rows selected
+Adentro: 500
+500 rows committed
+> >
+810000 rows selected
+Adentro: 500
+500 rows committed
+> >
+810500 rows selected
+Adentro: 500
+500 rows committed
+> >
+811000 rows selected
+Adentro: 500
+500 rows committed
+> >
+811500 rows selected
+Adentro: 500
+500 rows committed
+> >
+812000 rows selected
+Adentro: 500
+500 rows committed
+> >
+812500 rows selected
+Adentro: 500
+500 rows committed
+> >
+813000 rows selected
+Adentro: 500
+500 rows committed
+> >
+813500 rows selected
+Adentro: 500
+500 rows committed
+> >
+814000 rows selected
+Adentro: 500
+500 rows committed
+> >
+814500 rows selected
+Adentro: 500
+500 rows committed
+> >
+815000 rows selected
+Adentro: 500
+500 rows committed
+> >
+815500 rows selected
+Adentro: 500
+500 rows committed
+> >
+816000 rows selected
+Adentro: 500
+500 rows committed
+> >
+816500 rows selected
+Adentro: 500
+500 rows committed
+> >
+817000 rows selected
+Adentro: 500
+500 rows committed
+> >
+817500 rows selected
+Adentro: 500
+500 rows committed
+> >
+818000 rows selected
+Adentro: 500
+500 rows committed
+> >
+818500 rows selected
+Adentro: 500
+500 rows committed
+> >
+819000 rows selected
+Adentro: 500
+500 rows committed
+> >
+819500 rows selected
+Adentro: 500
+500 rows committed
+> >
+820000 rows selected
+Adentro: 500
+500 rows committed
+> >
+820500 rows selected
+Adentro: 500
+500 rows committed
+> >
+821000 rows selected
+Adentro: 500
+500 rows committed
+> >
+821500 rows selected
+Adentro: 500
+500 rows committed
+> >
+822000 rows selected
+Adentro: 500
+500 rows committed
+> >
+822500 rows selected
+Adentro: 500
+500 rows committed
+> >
+823000 rows selected
+Adentro: 500
+500 rows committed
+> >
+823500 rows selected
+Adentro: 500
+500 rows committed
+> >
+824000 rows selected
+Adentro: 500
+500 rows committed
+> >
+824500 rows selected
+Adentro: 500
+500 rows committed
+> >
+825000 rows selected
+Adentro: 500
+500 rows committed
+> >
+825500 rows selected
+Adentro: 500
+500 rows committed
+> >
+826000 rows selected
+Adentro: 500
+500 rows committed
+> >
+826500 rows selected
+Adentro: 500
+500 rows committed
+> >
+827000 rows selected
+Adentro: 500
+500 rows committed
+> >
+827500 rows selected
+Adentro: 500
+500 rows committed
+> >
+828000 rows selected
+Adentro: 500
+500 rows committed
+> >
+828500 rows selected
+Adentro: 500
+500 rows committed
+> >
+829000 rows selected
+Adentro: 500
+500 rows committed
+> >
+829500 rows selected
+Adentro: 500
+500 rows committed
+> >
+830000 rows selected
+Adentro: 500
+500 rows committed
+> >
+830500 rows selected
+Adentro: 500
+500 rows committed
+> >
+831000 rows selected
+Adentro: 500
+500 rows committed
+> >
+831500 rows selected
+Adentro: 500
+500 rows committed
+> >
+832000 rows selected
+Adentro: 500
+500 rows committed
+> >
+832500 rows selected
+Adentro: 500
+500 rows committed
+> >
+833000 rows selected
+Adentro: 500
+500 rows committed
+> >
+833500 rows selected
+Adentro: 500
+500 rows committed
+> >
+834000 rows selected
+Adentro: 500
+500 rows committed
+> >
+834500 rows selected
+Adentro: 500
+500 rows committed
+> >
+835000 rows selected
+Adentro: 500
+500 rows committed
+> >
+835500 rows selected
+Adentro: 500
+500 rows committed
+> >
+836000 rows selected
+Adentro: 500
+500 rows committed
+> >
+836500 rows selected
+Adentro: 500
+500 rows committed
+> >
+837000 rows selected
+Adentro: 500
+500 rows committed
+> >
+837500 rows selected
+Adentro: 500
+500 rows committed
+> >
+838000 rows selected
+Adentro: 500
+500 rows committed
+> >
+838500 rows selected
+Adentro: 500
+500 rows committed
+> >
+839000 rows selected
+Adentro: 500
+500 rows committed
+> >
+839500 rows selected
+Adentro: 500
+500 rows committed
+> >
+840000 rows selected
+Adentro: 500
+500 rows committed
+> >
+840500 rows selected
+Adentro: 500
+500 rows committed
+> >
+841000 rows selected
+Adentro: 500
+500 rows committed
+> >
+841500 rows selected
+Adentro: 500
+500 rows committed
+> >
+842000 rows selected
+Adentro: 500
+500 rows committed
+> >
+842500 rows selected
+Adentro: 500
+500 rows committed
+> >
+843000 rows selected
+Adentro: 500
+500 rows committed
+> >
+843500 rows selected
+Adentro: 500
+500 rows committed
+> >
+844000 rows selected
+Adentro: 500
+500 rows committed
+> >
+844500 rows selected
+Adentro: 500
+500 rows committed
+> >
+845000 rows selected
+Adentro: 500
+500 rows committed
+> >
+845500 rows selected
+Adentro: 500
+500 rows committed
+> >
+846000 rows selected
+Adentro: 500
+500 rows committed
+> >
+846500 rows selected
+Adentro: 500
+500 rows committed
+> >
+847000 rows selected
+Adentro: 500
+500 rows committed
+> >
+847500 rows selected
+Adentro: 500
+500 rows committed
+> >
+848000 rows selected
+Adentro: 500
+500 rows committed
+> >
+848500 rows selected
+Adentro: 500
+500 rows committed
+> >
+849000 rows selected
+Adentro: 500
+500 rows committed
+> >
+849500 rows selected
+Adentro: 500
+500 rows committed
+> >
+850000 rows selected
+Adentro: 500
+500 rows committed
+> >
+850500 rows selected
+Adentro: 500
+500 rows committed
+> >
+851000 rows selected
+Adentro: 500
+500 rows committed
+> >
+851500 rows selected
+Adentro: 500
+500 rows committed
+> >
+852000 rows selected
+Adentro: 500
+500 rows committed
+> >
+852500 rows selected
+Adentro: 500
+500 rows committed
+> >
+853000 rows selected
+Adentro: 500
+500 rows committed
+> >
+853500 rows selected
+Adentro: 500
+500 rows committed
+> >
+854000 rows selected
+Adentro: 500
+500 rows committed
+> >
+854500 rows selected
+Adentro: 500
+500 rows committed
+> >
+855000 rows selected
+Adentro: 500
+500 rows committed
+> >
+855500 rows selected
+Adentro: 500
+500 rows committed
+> >
+856000 rows selected
+Adentro: 500
+500 rows committed
+> >
+856500 rows selected
+Adentro: 500
+500 rows committed
+> >
+857000 rows selected
+Adentro: 500
+500 rows committed
+> >
+857500 rows selected
+Adentro: 500
+500 rows committed
+> >
+858000 rows selected
+Adentro: 500
+500 rows committed
+> >
+858500 rows selected
+Adentro: 500
+500 rows committed
+> >
+859000 rows selected
+Adentro: 500
+500 rows committed
+> >
+859500 rows selected
+Adentro: 500
+500 rows committed
+> >
+860000 rows selected
+Adentro: 500
+500 rows committed
+> >
+860500 rows selected
+Adentro: 500
+500 rows committed
+> >
+861000 rows selected
+Adentro: 500
+500 rows committed
+> >
+861500 rows selected
+Adentro: 500
+500 rows committed
+> >
+862000 rows selected
+Adentro: 500
+500 rows committed
+> >
+862500 rows selected
+Adentro: 500
+500 rows committed
+> >
+863000 rows selected
+Adentro: 500
+500 rows committed
+> >
+863500 rows selected
+Adentro: 500
+500 rows committed
+> >
+864000 rows selected
+Adentro: 500
+500 rows committed
+> >
+864500 rows selected
+Adentro: 500
+500 rows committed
+> >
+865000 rows selected
+Adentro: 500
+500 rows committed
+> >
+865500 rows selected
+Adentro: 500
+500 rows committed
+> >
+866000 rows selected
+Adentro: 500
+500 rows committed
+> >
+866500 rows selected
+Adentro: 500
+500 rows committed
+> >
+867000 rows selected
+Adentro: 500
+500 rows committed
+> >
+867500 rows selected
+Adentro: 500
+500 rows committed
+> >
+868000 rows selected
+Adentro: 500
+500 rows committed
+> >
+868500 rows selected
+Adentro: 500
+500 rows committed
+> >
+869000 rows selected
+Adentro: 500
+500 rows committed
+> >
+869500 rows selected
+Adentro: 500
+500 rows committed
+> >
+870000 rows selected
+Adentro: 500
+500 rows committed
+> >
+870500 rows selected
+Adentro: 500
+500 rows committed
+> >
+871000 rows selected
+Adentro: 500
+500 rows committed
+> >
+871500 rows selected
+Adentro: 500
+500 rows committed
+> >
+872000 rows selected
+Adentro: 500
+500 rows committed
+> >
+872500 rows selected
+Adentro: 500
+500 rows committed
+> >
+873000 rows selected
+Adentro: 500
+500 rows committed
+> >
+873500 rows selected
+Adentro: 500
+500 rows committed
+> >
+874000 rows selected
+Adentro: 500
+500 rows committed
+> >
+874500 rows selected
+Adentro: 500
+500 rows committed
+> >
+875000 rows selected
+Adentro: 500
+500 rows committed
+> >
+875500 rows selected
+Adentro: 500
+500 rows committed
+> >
+876000 rows selected
+Adentro: 500
+500 rows committed
+> >
+876500 rows selected
+Adentro: 500
+500 rows committed
+> >
+877000 rows selected
+Adentro: 500
+500 rows committed
+> >
+877500 rows selected
+Adentro: 500
+500 rows committed
+> >
+878000 rows selected
+Adentro: 500
+500 rows committed
+> >
+878500 rows selected
+Adentro: 500
+500 rows committed
+> >
+879000 rows selected
+Adentro: 500
+500 rows committed
+> >
+879500 rows selected
+Adentro: 500
+500 rows committed
+> >
+880000 rows selected
+Adentro: 500
+500 rows committed
+> >
+880500 rows selected
+Adentro: 500
+500 rows committed
+> >
+881000 rows selected
+Adentro: 500
+500 rows committed
+> >
+881500 rows selected
+Adentro: 500
+500 rows committed
+> >
+882000 rows selected
+Adentro: 500
+500 rows committed
+> >
+882500 rows selected
+Adentro: 500
+500 rows committed
+> >
+883000 rows selected
+Adentro: 500
+500 rows committed
+> >
+883500 rows selected
+Adentro: 500
+500 rows committed
+> >
+884000 rows selected
+Adentro: 500
+500 rows committed
+> >
+884500 rows selected
+Adentro: 500
+500 rows committed
+> >
+885000 rows selected
+Adentro: 500
+500 rows committed
+> >
+885500 rows selected
+Adentro: 500
+500 rows committed
+> >
+886000 rows selected
+Adentro: 500
+500 rows committed
+> >
+886500 rows selected
+Adentro: 500
+500 rows committed
+> >
+887000 rows selected
+Adentro: 500
+500 rows committed
+> >
+887500 rows selected
+Adentro: 500
+500 rows committed
+> >
+888000 rows selected
+Adentro: 500
+500 rows committed
+> >
+888500 rows selected
+Adentro: 500
+500 rows committed
+> >
+889000 rows selected
+Adentro: 500
+500 rows committed
+> >
+889500 rows selected
+Adentro: 500
+500 rows committed
+> >
+890000 rows selected
+Adentro: 500
+500 rows committed
+> >
+890500 rows selected
+Adentro: 500
+500 rows committed
+> >
+891000 rows selected
+Adentro: 500
+500 rows committed
+> >
+891500 rows selected
+Adentro: 500
+500 rows committed
+> >
+892000 rows selected
+Adentro: 500
+500 rows committed
+> >
+892500 rows selected
+Adentro: 500
+500 rows committed
+> >
+893000 rows selected
+Adentro: 500
+500 rows committed
+> >
+893500 rows selected
+Adentro: 500
+500 rows committed
+> >
+894000 rows selected
+Adentro: 500
+500 rows committed
+> >
+894500 rows selected
+Adentro: 500
+500 rows committed
+> >
+895000 rows selected
+Adentro: 500
+500 rows committed
+> >
+895500 rows selected
+Adentro: 500
+500 rows committed
+> >
+896000 rows selected
+Adentro: 500
+500 rows committed
+> >
+896500 rows selected
+Adentro: 500
+500 rows committed
+> >
+897000 rows selected
+Adentro: 500
+500 rows committed
+> >
+897500 rows selected
+Adentro: 500
+500 rows committed
+> >
+898000 rows selected
+Adentro: 500
+500 rows committed
+> >
+898500 rows selected
+Adentro: 500
+500 rows committed
+> >
+899000 rows selected
+Adentro: 500
+500 rows committed
+> >
+899500 rows selected
+Adentro: 500
+500 rows committed
+> >
+900000 rows selected
+Adentro: 500
+500 rows committed
+> >
+900500 rows selected
+Adentro: 500
+500 rows committed
+> >
+901000 rows selected
+Adentro: 500
+500 rows committed
+> >
+901500 rows selected
+Adentro: 500
+500 rows committed
+> >
+902000 rows selected
+Adentro: 500
+500 rows committed
+> >
+902500 rows selected
+Adentro: 500
+500 rows committed
+> >
+903000 rows selected
+Adentro: 500
+500 rows committed
+> >
+903500 rows selected
+Adentro: 500
+500 rows committed
+> >
+904000 rows selected
+Adentro: 500
+500 rows committed
+> >
+904500 rows selected
+Adentro: 500
+500 rows committed
+> >
+905000 rows selected
+Adentro: 500
+500 rows committed
+> >
+905500 rows selected
+Adentro: 500
+500 rows committed
+> >
+906000 rows selected
+Adentro: 500
+500 rows committed
+> >
+906500 rows selected
+Adentro: 500
+500 rows committed
+> >
+907000 rows selected
+Adentro: 500
+500 rows committed
+> >
+907500 rows selected
+Adentro: 500
+500 rows committed
+> >
+908000 rows selected
+Adentro: 500
+500 rows committed
+> >
+908500 rows selected
+Adentro: 500
+500 rows committed
+> >
+909000 rows selected
+Adentro: 500
+500 rows committed
+> >
+909500 rows selected
+Adentro: 500
+500 rows committed
+> >
+910000 rows selected
+Adentro: 500
+500 rows committed
+> >
+910500 rows selected
+Adentro: 500
+500 rows committed
+> >
+911000 rows selected
+Adentro: 500
+500 rows committed
+> >
+911500 rows selected
+Adentro: 500
+500 rows committed
+> >
+912000 rows selected
+Adentro: 500
+500 rows committed
+> >
+912500 rows selected
+Adentro: 500
+500 rows committed
+> >
+913000 rows selected
+Adentro: 500
+500 rows committed
+> >
+913500 rows selected
+Adentro: 500
+500 rows committed
+> >
+914000 rows selected
+Adentro: 500
+500 rows committed
+> >
+914500 rows selected
+Adentro: 500
+500 rows committed
+> >
+915000 rows selected
+Adentro: 500
+500 rows committed
+> >
+915500 rows selected
+Adentro: 500
+500 rows committed
+> >
+916000 rows selected
+Adentro: 500
+500 rows committed
+> >
+916500 rows selected
+Adentro: 500
+500 rows committed
+> >
+917000 rows selected
+Adentro: 500
+500 rows committed
+> >
+917500 rows selected
+Adentro: 500
+500 rows committed
+> >
+918000 rows selected
+Adentro: 500
+500 rows committed
+> >
+918500 rows selected
+Adentro: 500
+500 rows committed
+> >
+919000 rows selected
+Adentro: 500
+500 rows committed
+> >
+919500 rows selected
+Adentro: 500
+500 rows committed
+> >
+920000 rows selected
+Adentro: 500
+500 rows committed
+> >
+920500 rows selected
+Adentro: 500
+500 rows committed
+> >
+921000 rows selected
+Adentro: 500
+500 rows committed
+> >
+921500 rows selected
+Adentro: 500
+500 rows committed
+> >
+922000 rows selected
+Adentro: 500
+500 rows committed
+> >
+922500 rows selected
+Adentro: 500
+500 rows committed
+> >
+923000 rows selected
+Adentro: 500
+500 rows committed
+> >
+923500 rows selected
+Adentro: 500
+500 rows committed
+> >
+924000 rows selected
+Adentro: 500
+500 rows committed
+> >
+924500 rows selected
+Adentro: 500
+500 rows committed
+> >
+925000 rows selected
+Adentro: 500
+500 rows committed
+> >
+925500 rows selected
+Adentro: 500
+500 rows committed
+> >
+926000 rows selected
+Adentro: 500
+500 rows committed
+> >
+926500 rows selected
+Adentro: 500
+500 rows committed
+> >
+927000 rows selected
+Adentro: 500
+500 rows committed
+> >
+927500 rows selected
+Adentro: 500
+500 rows committed
+> >
+928000 rows selected
+Adentro: 500
+500 rows committed
+> >
+928500 rows selected
+Adentro: 500
+500 rows committed
+> >
+929000 rows selected
+Adentro: 500
+500 rows committed
+> >
+929500 rows selected
+Adentro: 500
+500 rows committed
+> >
+930000 rows selected
+Adentro: 500
+500 rows committed
+> >
+930500 rows selected
+Adentro: 500
+500 rows committed
+> >
+931000 rows selected
+Adentro: 500
+500 rows committed
+> >
+931500 rows selected
+Adentro: 500
+500 rows committed
+> >
+932000 rows selected
+Adentro: 500
+500 rows committed
+> >
+932500 rows selected
+Adentro: 500
+500 rows committed
+> >
+933000 rows selected
+Adentro: 500
+500 rows committed
+> >
+933500 rows selected
+Adentro: 500
+500 rows committed
+> >
+934000 rows selected
+Adentro: 500
+500 rows committed
+> >
+934500 rows selected
+Adentro: 500
+500 rows committed
+> >
+935000 rows selected
+Adentro: 500
+500 rows committed
+> >
+935500 rows selected
+Adentro: 500
+500 rows committed
+> >
+936000 rows selected
+Adentro: 500
+500 rows committed
+> >
+936500 rows selected
+Adentro: 500
+500 rows committed
+> >
+937000 rows selected
+Adentro: 500
+500 rows committed
+> >
+937500 rows selected
+Adentro: 500
+500 rows committed
+> >
+938000 rows selected
+Adentro: 500
+500 rows committed
+> >
+938500 rows selected
+Adentro: 500
+500 rows committed
+> >
+939000 rows selected
+Adentro: 500
+500 rows committed
+> >
+939500 rows selected
+Adentro: 500
+500 rows committed
+> >
+940000 rows selected
+Adentro: 500
+500 rows committed
+> >
+940500 rows selected
+Adentro: 500
+500 rows committed
+> >
+941000 rows selected
+Adentro: 500
+500 rows committed
+> >
+941500 rows selected
+Adentro: 500
+500 rows committed
+> >
+942000 rows selected
+Adentro: 500
+500 rows committed
+> >
+942500 rows selected
+Adentro: 500
+500 rows committed
+> >
+943000 rows selected
+Adentro: 500
+500 rows committed
+> >
+943500 rows selected
+Adentro: 500
+500 rows committed
+> >
+944000 rows selected
+Adentro: 500
+500 rows committed
+> >
+944500 rows selected
+Adentro: 500
+500 rows committed
+> >
+945000 rows selected
+Adentro: 500
+500 rows committed
+> >
+945500 rows selected
+Adentro: 500
+500 rows committed
+> >
+946000 rows selected
+Adentro: 500
+500 rows committed
+> >
+946500 rows selected
+Adentro: 500
+500 rows committed
+> >
+947000 rows selected
+Adentro: 500
+500 rows committed
+> >
+947500 rows selected
+Adentro: 500
+500 rows committed
+> >
+948000 rows selected
+Adentro: 500
+500 rows committed
+> >
+948500 rows selected
+Adentro: 500
+500 rows committed
+> >
+949000 rows selected
+Adentro: 500
+500 rows committed
+> >
+949500 rows selected
+Adentro: 500
+500 rows committed
+> >
+950000 rows selected
+Adentro: 500
+500 rows committed
+> >
+950500 rows selected
+Adentro: 500
+500 rows committed
+> >
+951000 rows selected
+Adentro: 500
+500 rows committed
+> >
+951500 rows selected
+Adentro: 500
+500 rows committed
+> >
+952000 rows selected
+Adentro: 500
+500 rows committed
+> >
+952500 rows selected
+Adentro: 500
+500 rows committed
+> >
+953000 rows selected
+Adentro: 500
+500 rows committed
+> >
+953500 rows selected
+Adentro: 500
+500 rows committed
+> >
+954000 rows selected
+Adentro: 500
+500 rows committed
+> >
+954500 rows selected
+Adentro: 500
+500 rows committed
+> >
+955000 rows selected
+Adentro: 500
+500 rows committed
+> >
+955500 rows selected
+Adentro: 500
+500 rows committed
+> >
+956000 rows selected
+Adentro: 500
+500 rows committed
+> >
+956500 rows selected
+Adentro: 500
+500 rows committed
+> >
+957000 rows selected
+Adentro: 500
+500 rows committed
+> >
+957500 rows selected
+Adentro: 500
+500 rows committed
+> >
+958000 rows selected
+Adentro: 500
+500 rows committed
+> >
+958500 rows selected
+Adentro: 500
+500 rows committed
+> >
+959000 rows selected
+Adentro: 500
+500 rows committed
+> >
+959500 rows selected
+Adentro: 500
+500 rows committed
+> >
+960000 rows selected
+Adentro: 500
+500 rows committed
+> >
+960500 rows selected
+Adentro: 500
+500 rows committed
+> >
+961000 rows selected
+Adentro: 500
+500 rows committed
+> >
+961500 rows selected
+Adentro: 500
+500 rows committed
+> >
+962000 rows selected
+Adentro: 500
+500 rows committed
+> >
+962500 rows selected
+Adentro: 500
+500 rows committed
+> >
+963000 rows selected
+Adentro: 500
+500 rows committed
+> >
+963500 rows selected
+Adentro: 500
+500 rows committed
+> >
+964000 rows selected
+Adentro: 500
+500 rows committed
+> >
+964500 rows selected
+Adentro: 500
+500 rows committed
+> >
+965000 rows selected
+Adentro: 500
+500 rows committed
+> >
+965500 rows selected
+Adentro: 500
+500 rows committed
+> >
+966000 rows selected
+Adentro: 500
+500 rows committed
+> >
+966500 rows selected
+Adentro: 500
+500 rows committed
+> >
+967000 rows selected
+Adentro: 500
+500 rows committed
+> >
+967500 rows selected
+Adentro: 500
+500 rows committed
+> >
+968000 rows selected
+Adentro: 500
+500 rows committed
+> >
+968500 rows selected
+Adentro: 500
+500 rows committed
+> >
+969000 rows selected
+Adentro: 500
+500 rows committed
+> >
+969500 rows selected
+Adentro: 500
+500 rows committed
+> >
+970000 rows selected
+Adentro: 500
+500 rows committed
+> >
+970500 rows selected
+Adentro: 500
+500 rows committed
+> >
+971000 rows selected
+Adentro: 500
+500 rows committed
+> >
+971500 rows selected
+Adentro: 500
+500 rows committed
+> >
+972000 rows selected
+Adentro: 500
+500 rows committed
+> >
+972500 rows selected
+Adentro: 500
+500 rows committed
+> >
+973000 rows selected
+Adentro: 500
+500 rows committed
+> >
+973500 rows selected
+Adentro: 500
+500 rows committed
+> >
+974000 rows selected
+Adentro: 500
+500 rows committed
+> >
+974500 rows selected
+Adentro: 500
+500 rows committed
+> >
+975000 rows selected
+Adentro: 500
+500 rows committed
+> >
+975500 rows selected
+Adentro: 500
+500 rows committed
+> >
+976000 rows selected
+Adentro: 500
+500 rows committed
+> >
+976500 rows selected
+Adentro: 500
+500 rows committed
+> >
+977000 rows selected
+Adentro: 500
+500 rows committed
+> >
+977500 rows selected
+Adentro: 500
+500 rows committed
+> >
+978000 rows selected
+Adentro: 500
+500 rows committed
+> >
+978500 rows selected
+Adentro: 500
+500 rows committed
+> >
+979000 rows selected
+Adentro: 500
+500 rows committed
+> >
+979500 rows selected
+Adentro: 500
+500 rows committed
+> >
+980000 rows selected
+Adentro: 500
+500 rows committed
+> >
+980500 rows selected
+Adentro: 500
+500 rows committed
+> >
+981000 rows selected
+Adentro: 500
+500 rows committed
+> >
+981500 rows selected
+Adentro: 500
+500 rows committed
+> >
+982000 rows selected
+Adentro: 500
+500 rows committed
+> >
+982500 rows selected
+Adentro: 500
+500 rows committed
+> >
+983000 rows selected
+Adentro: 500
+500 rows committed
+> >
+983500 rows selected
+Adentro: 500
+500 rows committed
+> >
+984000 rows selected
+Adentro: 500
+500 rows committed
+> >
+984500 rows selected
+Adentro: 500
+500 rows committed
+> >
+985000 rows selected
+Adentro: 500
+500 rows committed
+> >
+985500 rows selected
+Adentro: 500
+500 rows committed
+> >
+986000 rows selected
+Adentro: 500
+500 rows committed
+> >
+986500 rows selected
+Adentro: 500
+500 rows committed
+> >
+987000 rows selected
+Adentro: 500
+500 rows committed
+> >
+987500 rows selected
+Adentro: 500
+500 rows committed
+> >
+988000 rows selected
+Adentro: 500
+500 rows committed
+> >
+988500 rows selected
+Adentro: 500
+500 rows committed
+> >
+989000 rows selected
+Adentro: 500
+500 rows committed
+> >
+989500 rows selected
+Adentro: 500
+500 rows committed
+> >
+990000 rows selected
+Adentro: 500
+500 rows committed
+> >
+990500 rows selected
+Adentro: 500
+500 rows committed
+> >
+991000 rows selected
+Adentro: 500
+500 rows committed
+> >
+991500 rows selected
+Adentro: 500
+500 rows committed
+> >
+992000 rows selected
+Adentro: 500
+500 rows committed
+> >
+992500 rows selected
+Adentro: 500
+500 rows committed
+> >
+993000 rows selected
+Adentro: 500
+500 rows committed
+> >
+993500 rows selected
+Adentro: 500
+500 rows committed
+> >
+994000 rows selected
+Adentro: 500
+500 rows committed
+> >
+994500 rows selected
+Adentro: 500
+500 rows committed
+> >
+995000 rows selected
+Adentro: 500
+500 rows committed
+> >
+995500 rows selected
+Adentro: 500
+500 rows committed
+> >
+996000 rows selected
+Adentro: 500
+500 rows committed
+> >
+996500 rows selected
+Adentro: 500
+500 rows committed
+> >
+997000 rows selected
+Adentro: 500
+500 rows committed
+> >
+997500 rows selected
+Adentro: 500
+500 rows committed
+> >
+998000 rows selected
+Adentro: 500
+500 rows committed
+> >
+998500 rows selected
+Adentro: 500
+500 rows committed
+> >
+999000 rows selected
+Adentro: 500
+500 rows committed
+> >
+999500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1000000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1000500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1001000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1001500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1002000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1002500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1003000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1003500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1004000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1004500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1005000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1005500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1006000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1006500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1007000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1007500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1008000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1008500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1009000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1009500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1010000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1010500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1011000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1011500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1012000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1012500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1013000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1013500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1014000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1014500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1015000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1015500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1016000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1016500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1017000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1017500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1018000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1018500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1019000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1019500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1020000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1020500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1021000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1021500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1022000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1022500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1023000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1023500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1024000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1024500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1025000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1025500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1026000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1026500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1027000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1027500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1028000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1028500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1029000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1029500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1030000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1030500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1031000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1031500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1032000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1032500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1033000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1033500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1034000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1034500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1035000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1035500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1036000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1036500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1037000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1037500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1038000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1038500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1039000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1039500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1040000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1040500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1041000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1041500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1042000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1042500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1043000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1043500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1044000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1044500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1045000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1045500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1046000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1046500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1047000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1047500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1048000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1048500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1049000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1049500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1050000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1050500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1051000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1051500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1052000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1052500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1053000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1053500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1054000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1054500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1055000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1055500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1056000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1056500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1057000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1057500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1058000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1058500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1059000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1059500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1060000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1060500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1061000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1061500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1062000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1062500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1063000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1063500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1064000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1064500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1065000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1065500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1066000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1066500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1067000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1067500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1068000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1068500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1069000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1069500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1070000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1070500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1071000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1071500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1072000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1072500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1073000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1073500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1074000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1074500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1075000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1075500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1076000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1076500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1077000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1077500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1078000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1078500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1079000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1079500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1080000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1080500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1081000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1081500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1082000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1082500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1083000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1083500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1084000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1084500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1085000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1085500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1086000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1086500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1087000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1087500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1088000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1088500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1089000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1089500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1090000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1090500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1091000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1091500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1092000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1092500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1093000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1093500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1094000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1094500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1095000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1095500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1096000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1096500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1097000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1097500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1098000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1098500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1099000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1099500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1100000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1100500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1101000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1101500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1102000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1102500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1103000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1103500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1104000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1104500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1105000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1105500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1106000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1106500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1107000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1107500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1108000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1108500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1109000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1109500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1110000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1110500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1111000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1111500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1112000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1112500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1113000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1113500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1114000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1114500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1115000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1115500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1116000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1116500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1117000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1117500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1118000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1118500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1119000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1119500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1120000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1120500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1121000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1121500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1122000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1122500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1123000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1123500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1124000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1124500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1125000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1125500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1126000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1126500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1127000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1127500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1128000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1128500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1129000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1129500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1130000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1130500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1131000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1131500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1132000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1132500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1133000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1133500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1134000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1134500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1135000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1135500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1136000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1136500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1137000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1137500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1138000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1138500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1139000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1139500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1140000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1140500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1141000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1141500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1142000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1142500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1143000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1143500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1144000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1144500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1145000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1145500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1146000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1146500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1147000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1147500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1148000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1148500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1149000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1149500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1150000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1150500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1151000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1151500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1152000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1152500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1153000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1153500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1154000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1154500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1155000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1155500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1156000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1156500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1157000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1157500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1158000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1158500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1159000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1159500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1160000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1160500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1161000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1161500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1162000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1162500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1163000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1163500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1164000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1164500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1165000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1165500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1166000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1166500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1167000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1167500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1168000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1168500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1169000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1169500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1170000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1170500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1171000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1171500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1172000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1172500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1173000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1173500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1174000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1174500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1175000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1175500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1176000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1176500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1177000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1177500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1178000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1178500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1179000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1179500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1180000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1180500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1181000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1181500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1182000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1182500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1183000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1183500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1184000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1184500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1185000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1185500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1186000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1186500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1187000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1187500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1188000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1188500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1189000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1189500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1190000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1190500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1191000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1191500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1192000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1192500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1193000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1193500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1194000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1194500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1195000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1195500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1196000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1196500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1197000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1197500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1198000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1198500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1199000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1199500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1200000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1200500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1201000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1201500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1202000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1202500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1203000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1203500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1204000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1204500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1205000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1205500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1206000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1206500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1207000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1207500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1208000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1208500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1209000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1209500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1210000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1210500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1211000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1211500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1212000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1212500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1213000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1213500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1214000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1214500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1215000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1215500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1216000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1216500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1217000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1217500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1218000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1218500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1219000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1219500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1220000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1220500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1221000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1221500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1222000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1222500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1223000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1223500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1224000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1224500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1225000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1225500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1226000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1226500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1227000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1227500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1228000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1228500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1229000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1229500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1230000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1230500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1231000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1231500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1232000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1232500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1233000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1233500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1234000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1234500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1235000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1235500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1236000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1236500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1237000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1237500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1238000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1238500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1239000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1239500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1240000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1240500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1241000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1241500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1242000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1242500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1243000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1243500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1244000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1244500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1245000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1245500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1246000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1246500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1247000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1247500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1248000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1248500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1249000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1249500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1250000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1250500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1251000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1251500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1252000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1252500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1253000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1253500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1254000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1254500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1255000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1255500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1256000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1256500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1257000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1257500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1258000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1258500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1259000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1259500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1260000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1260500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1261000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1261500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1262000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1262500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1263000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1263500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1264000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1264500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1265000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1265500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1266000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1266500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1267000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1267500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1268000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1268500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1269000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1269500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1270000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1270500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1271000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1271500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1272000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1272500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1273000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1273500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1274000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1274500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1275000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1275500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1276000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1276500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1277000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1277500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1278000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1278500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1279000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1279500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1280000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1280500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1281000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1281500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1282000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1282500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1283000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1283500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1284000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1284500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1285000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1285500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1286000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1286500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1287000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1287500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1288000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1288500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1289000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1289500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1290000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1290500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1291000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1291500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1292000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1292500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1293000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1293500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1294000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1294500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1295000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1295500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1296000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1296500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1297000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1297500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1298000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1298500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1299000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1299500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1300000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1300500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1301000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1301500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1302000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1302500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1303000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1303500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1304000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1304500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1305000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1305500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1306000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1306500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1307000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1307500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1308000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1308500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1309000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1309500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1310000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1310500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1311000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1311500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1312000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1312500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1313000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1313500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1314000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1314500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1315000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1315500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1316000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1316500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1317000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1317500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1318000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1318500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1319000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1319500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1320000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1320500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1321000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1321500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1322000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1322500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1323000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1323500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1324000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1324500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1325000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1325500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1326000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1326500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1327000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1327500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1328000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1328500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1329000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1329500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1330000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1330500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1331000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1331500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1332000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1332500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1333000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1333500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1334000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1334500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1335000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1335500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1336000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1336500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1337000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1337500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1338000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1338500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1339000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1339500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1340000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1340500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1341000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1341500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1342000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1342500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1343000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1343500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1344000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1344500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1345000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1345500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1346000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1346500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1347000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1347500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1348000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1348500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1349000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1349500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1350000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1350500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1351000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1351500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1352000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1352500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1353000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1353500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1354000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1354500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1355000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1355500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1356000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1356500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1357000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1357500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1358000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1358500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1359000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1359500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1360000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1360500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1361000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1361500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1362000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1362500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1363000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1363500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1364000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1364500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1365000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1365500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1366000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1366500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1367000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1367500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1368000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1368500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1369000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1369500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1370000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1370500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1371000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1371500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1372000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1372500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1373000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1373500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1374000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1374500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1375000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1375500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1376000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1376500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1377000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1377500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1378000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1378500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1379000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1379500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1380000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1380500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1381000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1381500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1382000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1382500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1383000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1383500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1384000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1384500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1385000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1385500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1386000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1386500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1387000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1387500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1388000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1388500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1389000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1389500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1390000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1390500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1391000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1391500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1392000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1392500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1393000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1393500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1394000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1394500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1395000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1395500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1396000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1396500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1397000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1397500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1398000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1398500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1399000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1399500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1400000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1400500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1401000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1401500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1402000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1402500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1403000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1403500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1404000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1404500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1405000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1405500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1406000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1406500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1407000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1407500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1408000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1408500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1409000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1409500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1410000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1410500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1411000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1411500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1412000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1412500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1413000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1413500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1414000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1414500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1415000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1415500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1416000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1416500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1417000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1417500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1418000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1418500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1419000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1419500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1420000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1420500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1421000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1421500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1422000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1422500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1423000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1423500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1424000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1424500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1425000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1425500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1426000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1426500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1427000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1427500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1428000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1428500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1429000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1429500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1430000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1430500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1431000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1431500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1432000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1432500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1433000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1433500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1434000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1434500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1435000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1435500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1436000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1436500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1437000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1437500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1438000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1438500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1439000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1439500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1440000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1440500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1441000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1441500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1442000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1442500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1443000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1443500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1444000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1444500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1445000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1445500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1446000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1446500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1447000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1447500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1448000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1448500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1449000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1449500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1450000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1450500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1451000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1451500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1452000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1452500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1453000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1453500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1454000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1454500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1455000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1455500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1456000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1456500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1457000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1457500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1458000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1458500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1459000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1459500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1460000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1460500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1461000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1461500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1462000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1462500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1463000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1463500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1464000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1464500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1465000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1465500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1466000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1466500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1467000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1467500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1468000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1468500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1469000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1469500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1470000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1470500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1471000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1471500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1472000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1472500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1473000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1473500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1474000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1474500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1475000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1475500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1476000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1476500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1477000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1477500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1478000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1478500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1479000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1479500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1480000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1480500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1481000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1481500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1482000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1482500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1483000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1483500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1484000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1484500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1485000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1485500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1486000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1486500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1487000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1487500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1488000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1488500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1489000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1489500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1490000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1490500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1491000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1491500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1492000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1492500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1493000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1493500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1494000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1494500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1495000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1495500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1496000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1496500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1497000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1497500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1498000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1498500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1499000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1499500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1500000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1500500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1501000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1501500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1502000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1502500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1503000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1503500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1504000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1504500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1505000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1505500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1506000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1506500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1507000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1507500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1508000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1508500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1509000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1509500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1510000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1510500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1511000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1511500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1512000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1512500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1513000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1513500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1514000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1514500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1515000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1515500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1516000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1516500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1517000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1517500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1518000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1518500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1519000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1519500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1520000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1520500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1521000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1521500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1522000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1522500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1523000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1523500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1524000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1524500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1525000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1525500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1526000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1526500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1527000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1527500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1528000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1528500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1529000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1529500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1530000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1530500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1531000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1531500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1532000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1532500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1533000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1533500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1534000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1534500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1535000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1535500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1536000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1536500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1537000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1537500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1538000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1538500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1539000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1539500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1540000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1540500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1541000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1541500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1542000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1542500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1543000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1543500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1544000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1544500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1545000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1545500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1546000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1546500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1547000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1547500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1548000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1548500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1549000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1549500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1550000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1550500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1551000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1551500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1552000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1552500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1553000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1553500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1554000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1554500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1555000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1555500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1556000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1556500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1557000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1557500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1558000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1558500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1559000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1559500 rows selected
+Adentro: 500
+500 rows committed
+> >
+1560000 rows selected
+Adentro: 500
+500 rows committed
+> >
+1560500 rows selected
+Adentro: 330
+330 rows committed
+> >
+1560830 rows selected
+
+PL/SQL procedure successfully completed.
+
+SQL> 
+Commit complete.
+
+SQL> SQL> Disconnected from Oracle Database 10g Enterprise Edition Release 10.2.0.4.0 - 64bit Production
+With the Partitioning, Data Mining and Real Application Testing options
+
+***************************************************
+****************                   ****************
+**********                               **********
+*****                                         *****
+  JOB: updtRemitXref.csh completed 05/20/10 14:06:21
+*****                                         *****
+**********                               **********
+****************                   ****************
+***************************************************
+
